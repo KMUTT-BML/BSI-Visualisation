@@ -27,12 +27,12 @@ data_list = []
 
 for row in row_list:
     cell_dict = {}
-    
-    for index, cell in enumerate(row):
-        if index == 2:
-            cell_dict['source'] = cell.value
-        elif index == 11:
-            cell_dict['flux'] = cell.value
+    if row[2].value.find('[c]') != -1:
+	    for index, cell in enumerate(row):
+	        if index == 2:
+	            cell_dict['source'] = cell.value
+	        elif index == 11:
+	            cell_dict['flux'] = cell.value
 
     data_list.append(cell_dict)
 

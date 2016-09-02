@@ -3,7 +3,7 @@ import openpyxl
 import json
 import subprocess
 
-workbook = openpyxl.load_workbook('test.xlsx')
+workbook = openpyxl.load_workbook('FBA.xlsx')
 worksheet = workbook.get_sheet_by_name("reactions")
 
 # Get iter rows
@@ -31,7 +31,6 @@ for row in row_list:
     for index, cell in enumerate(row):
         if index == 2:
             cell_dict['source'] = cell.value
-        elif index == 
         elif index == 11:
             cell_dict['flux'] = cell.value
 

@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html>
+    <title>my demo</title>
+
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+
+    <script src="jquery-3.1.0.min.js"></script>
+    <script src="cytoscape.js/cytoscape.min.js"></script>
+    <script src="data.js"></script>
+    <!--<script src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-latest/cytoscape.min.js"></script>-->
+
+    <!-- for testing with local version of cytoscape.js -->
+    <!--<script src="../cytoscape.js/build/cytoscape.js"></script>-->
+
+    <style>
+      body {
+        font-family: helvetica;
+        font-size: 14px;
+      }
+
+      #cy {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 999;
+      }
+
+      h1 {
+        opacity: 0.5;
+        font-size: 1em;
+      }
+    </style>
+    <script>
+    $(function (){
+        var cy = cytoscape({
+            container: document.getElementById('cy'), // container to render in
+            
+            boxSelectionEnabled: false,
+            autounselectify: true,
+          
+            elements: { // list of graph elements to start with
+                nodes : [
+                   { data: { id: 'a', nc: '#aabbcc' } },
+                   { data: { id: 'b', nc: '#aabbcc' } },
+                   { data: { id: 'c', nc: '#aabbcc'} }
+                ],
+                edges : [
+                    { data: { id: 'ab', weight: 3, source: 'a', target: 'b' } }
+                ]
+            },
+          
+            style: cytoscape.stylesheet()
+            .selector('node')
+              .css({
+                'content': 'data(id)',
+                'color' : '#000',
+                'background-color': 'data(nc)'
+              })
+            .selector('edge')
+              .css({
+                'target-arrow-shape': 'triangle',
+                'source-arrow-shape': 'triangle',
+                'width': 4,
+                'line-color': '#8a38ae',
+                'source-arrow-color': '#8a38ae',
+                'target-arrow-color': '#8a38ae',
+                'curve-style': 'bezier'
+            }),
+          
+            layout: {
+              name: 'grid',
+              roots: '#a',
+              rows: 1,
+              directed: true
+            }
+        
+        });
+        //var bfs = cy.elements().bfs('#a', function(){}, true);
+    });
+    </script>
+    <body>
+        <div id="cy"></div>
+    </body>
+</html>

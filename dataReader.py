@@ -28,11 +28,28 @@ data_list = []
 for row in row_list:
     cell_dict = {}
     if row[2].value.find('[c]') != -1:
-	    for index, cell in enumerate(row):
-	        if index == 2:
-	            cell_dict['source'] = cell.value
-	        elif index == 11:
-	            cell_dict['flux'] = cell.value
+        #Abbreviation column
+        cell_dict['abbr'] = row[0].value
+        #Name column
+        cell_dict['name'] = row[1].value
+        #Reaction column
+        cell_dict['reaction'] = row[2].value
+        #Subsystem column
+        cell_dict['pathway'] = row[6].value
+        #Reversible column , Lower bound column , and Upper bound column
+        #row[7] == 1 means reversible column = 1
+        #so this reaction can revers and has two arrow at an edge
+        if row[7].value == 1:
+            cell_dict['source_arrow'] = 'triangle'
+            cell_dict['target_arrow'] = 'triangle'
+        #else means row[7] == 0 and reversible column = 0
+        #so this reaction can't revers
+        #row[8] == 0 means an edge has only arrow at target side
+        elif row[8].value == 0:
+            cell_dict['source_arrow'] = 'none'
+            cell_dict['target_arrow'] = 'triangle'
+        #Confidence Score column
+        cell_dict['flux'] = row[11].value
 
     data_list.append(cell_dict)
 

@@ -114,3 +114,4 @@ with open('result_mitochondria.js', 'w') as f:
     f.write('var mitochondria = ')
     f.write(data_json)
 
+subprocess.check_output('start games.html', shell=True)

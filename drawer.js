@@ -1,14 +1,39 @@
 $(function (){
 
-    // Get value
-    var games = new Array();
-    var publishers = new Array();
+    var source = new Array();
+    var target = new Array();
     var edges = new Array();
-    for(i=0;i<data.length;i++){
+
+    //get each data from object
+    for(i=0;i<cytosol.length;i++){
+        //separate pathway by color of node
+        //color for node of sucrose/starch metabolism pathway
+        var color = '#DF013A';
+        if (cytosol[i].pathway == 'nucleotide biosynthesis pathway') {
+            color = '#FCB1ED';
+        }
+        else if(cytosol[i].pathway == 'cell wall biosynthesis pathway'){
+            color = '#FCB1ED';
+        }
+        else if (cytosol[i].pathway == 'pentose phosphate pathway') {
+            color = '';       
+        }
+
+        //if this reaction is the substance side
+        if (cytosol[i].substance != undefined) {
+            cData = {
+                "data" : {
+                    "id" : cytosol[i].substance + '-' + cytosol[i].abbr,
+                    "nc": '#6ab8ff',
+                    "shape" : 'pentagon'
+                }
+            };
+        }
+
         // Create node
-        pubData = {
+        cData = {
             "data" : {
-                "id" : data[i].publisher,
+                "id" : cytosol[i].publisher,
                 "nc": '#6ab8ff',
                 "shape" : 'pentagon'
             }
@@ -16,7 +41,7 @@ $(function (){
 
         // Filter and set node data
         // Set default data
-        publishers.push(pubData);
+        publishers.push(cData);
         
         weight = 1;
         gameColor = '#aabbcc';

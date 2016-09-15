@@ -1,4 +1,4 @@
-Simple Game Graph
+Reaction Network Model
 =================
 
 Main platform is Windows
@@ -12,3 +12,7 @@ Use: run file "dataReader.py"
 
 -----------
 If you use Windows, just doubleclick run_window.bat file.
+
+-----------
+HOW CHANGE dataReader.py
+ - change m/p/c to the short name of compartment that contain in reaction

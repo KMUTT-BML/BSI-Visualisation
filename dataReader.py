@@ -33,7 +33,26 @@ for row in row_list:
         #Name column
         cell_dict['name'] = row[1].value
         #Reaction column
-        cell_dict['reaction'] = row[2].value
+        #cell_dict['reaction'] = row[2].value
+        reaction = row[2].value
+        temp = ''
+        if reaction.find('->') != -1:
+            temp = [reaction[0:reaction.find('->')], reaction[reaction.find('->')+3:]]
+        elif reaction.find('<=>') != -1:
+            temp = [reaction[0:reaction.find('<=>')], reaction[reaction.find('<=>')+4:]]
+        elif reaction.find('<-') != -1:
+            temp = [reaction[0:reaction.find('<-')], reaction[reaction.find('<-')+3:]]
+
+        tempS = temp[0].split( )
+        tempT = temp[1].split( )
+        for s in tempS:
+            if s != '+':
+                #print s
+                cell_dict['substance'] = s
+        for t in tempT:
+            if t != '+':
+                #print t
+                cell_dict['product'] = t
         #Subsystem column
         cell_dict['pathway'] = row[6].value
         #Reversible column , Lower bound column , and Upper bound column

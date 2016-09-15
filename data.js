@@ -495,11 +495,13 @@ var data = [{
     "abbr": "R00485_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
-    "pathway": "amino acid biosynthesis pathway",
     "reaction": "L-Threonine[c] -> Glycine[c] + Acetaldehyde[c]",
+    "name": "v15",
+    "target_arrow": "none",
+    "source_arrow": "triangle",
     "flux": 0,
     "abbr": "R00751_c",
-    "name": "v15"
+    "pathway": "amino acid biosynthesis pathway"
 }, {
     "reaction": "ATP[c] + L-Aspartate[c] + NH3[c] <=> AMP[c] + Diphosphate[c] + L-Asparagine[c]",
     "name": "v16",

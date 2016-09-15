@@ -45,9 +45,14 @@ for row in row_list:
         #else means row[7] == 0 and reversible column = 0
         #so this reaction can't revers
         #row[8] == 0 means an edge has only arrow at target side
+        #lower bound = 0 and upper bound = 1000
         elif row[8].value == 0:
             cell_dict['source_arrow'] = 'none'
             cell_dict['target_arrow'] = 'triangle'
+        #else row[8] != 0 mean lower bound = 1000 and upper bound = 0
+        else :
+            cell_dict['source_arrow'] = 'triangle'
+            cell_dict['target_arrow'] = 'none'
         #Confidence Score column
         cell_dict['flux'] = row[11].value
 

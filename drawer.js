@@ -9,78 +9,122 @@ $(function (){
         //separate pathway by color of node
         //color for node of sucrose/starch metabolism pathway
         var color = '#DF013A';
-        if (cytosol[i].pathway == 'nucleotide biosynthesis pathway') {
+
+        if (cytosol[i].pathway.includes("nucleotide biosynthesis")) {
             color = '#FCB1ED';
         }
-        else if(cytosol[i].pathway == 'cell wall biosynthesis pathway'){
+        else if(cytosol[i].pathway.includes("cell wall biosynthesis")){
             color = '#FCB1ED';
         }
-        else if (cytosol[i].pathway == 'pentose phosphate pathway') {
+        else if (cytosol[i].pathway.includes("pentose phosphate")) {
             color = '';       
         }
+        else if (cytosol[i].pathway.includes("respiration")) {
+            color = '';
+        }
+        else if (cytosol[i].pathway.includes("amino acid biosynthesis")) {
+            color = '';
+        }
+        else if (cytosol[i].pathway.includes("fatty acid biosynthesis")) {
+            color = '';
+        }
+        else if (cytosol[i].abbr.startsWith("T")) {//transporter
+            color = '';
+        }
+        else if (cytosol[i].abbr.startsWith("E")) {//external
+            color = '#000000';
+        }
 
-        //if this reaction is the substance side
+        //create node with source and target -------------------------------
+
+        var sourceData;
+        //set source node
+        //if there is substance value in array
         if (cytosol[i].substance != undefined) {
-            cData = {
+            sourceData = {
                 "data" : {
                     "id" : cytosol[i].substance + '-' + cytosol[i].abbr,
-                    "nc": '#6ab8ff',
-                    "shape" : 'pentagon'
+                    "nc": color,
+                    "shape" : 'ellipse',
+                    "width" : 15,
+                    "height" : 15
+                }
+            };
+        }
+        else{// if there is no substance value in arry, so flux will be source
+            sourceData = {
+                "data" : {
+                    "id" : cytosol[i].abbr,
+                    "nc": color,
+                    "shape" : 'ellipse',
+                    "width" : 5,
+                    "height" : 5
                 }
             };
         }
 
-        // Create node
-        cData = {
-            "data" : {
-                "id" : cytosol[i].publisher,
-                "nc": '#6ab8ff',
-                "shape" : 'pentagon'
-            }
-        };
+        source.push(sourceData);
 
-        // Filter and set node data
-        // Set default data
-        publishers.push(cData);
-        
-        weight = 1;
-        gameColor = '#aabbcc';
-
-        // Filter by category
-        if(data[i].category.toLowerCase() == 'fps'){
-            weight = 2;
-            gameColor = '#e06b04';
-        }else if(data[i].category.toLowerCase() == 'moba'){
-            gameColor = '#5b4b49';
-            weight = 5;
+        var targetData;
+        //set target node
+        //if there is product value in array
+        if (cytosol[i].product != undefined) {
+            targetData = {
+                "data" : {
+                    "id" : cytosol[i].abbr + '-' + cytosol[i].product,
+                    "nc": color,
+                    "shape" : 'ellipse',
+                    "width" : 15,
+                    "height" : 15
+                }
+            };
+        }
+        else{// if there is no substance value in arry, so flux will be source
+            targetData = {
+                "data" : {
+                    "id" : cytosol[i].abbr,
+                    "nc": color,
+                    "shape" : 'ellipse',
+                    "width" : 5,
+                    "height" : 5
+                }
+            };
         }
 
-        gameData = {
-            "data" : {
-                "id" : data[i].game,
-                "nc": gameColor,
-                "shape" : 'ellipse'
-            }
-        };
-        games.push(gameData);
-
-        // Create edge
-        edgeData = {
-            "data" : {
-                "id": data[i].publisher + '-' + data[i].game,
-                "weight": weight,
-                "source": data[i].publisher,
-                "target": data[i].game
-            }
-        };
+        target.push(targetData);
+        
+        // Create edge ----------------------------------------------
+        var edgeData;
+        //edge between substance and flux
+        if (cytosol[i].substance != undefined) {
+            edgeData = {
+                "data" : {
+                    "id": data[i].substance + '-' + data[i].name,
+                    "weight": 4,
+                    "source": data[i].substance,
+                    "target": data[i].abbr,
+                    "target_arrow" : data[i].target_arrow,
+                    "source_arrow" : data[i].source_arrow
+                }
+            };
+        }
+        else{//edge between flux and product
+            edgeData = {
+                "data" : {
+                    "id": data[i].name + '-' + data[i].product,
+                    "weight": 4,
+                    "source": data[i].abbr,
+                    "target": data[i].product,
+                    "target_arrow" : data[i].target_arrow,
+                    "source_arrow" : data[i].source_arrow
+                }
+            };
+        }
         edges.push(edgeData);
     }
 
-    console.log(edges);
-    console.log(games);
-    console.log(publishers);
 
-    nodes = games.concat(publishers);
+    nodes = target.concat(source);
 
     // Draw graph
     var cy = cytoscape({
@@ -89,17 +133,6 @@ $(function (){
         boxSelectionEnabled: false,
         autounselectify: true,
 
-//        elements: { // list of graph elements to start with
-//            nodes : [
-//               { data: { id: 'a', nc: '#aabbcc' } },
-//               { data: { id: 'b', nc: '#aabbcc' } },
-//               { data: { id: 'a', nc: '#aabbcc'} },
-//               { data: { id: data[0].game, nc: '#aabbcc'} }
-//            ],
-//            edges : [
-//                { data: { id: 'ab', weight: 3, source: 'a', target: 'b' } }
-//            ]
-//        },
         elements : {
             nodes : nodes,
             edges : edges
@@ -115,12 +148,12 @@ $(function (){
           })
         .selector('edge')
           .css({
-            'target-arrow-shape': 'triangle',
-//            'source-arrow-shape': 'triangle',
+            'target-arrow-shape': 'data(target_arrow)',
+            'source-arrow-shape': 'data(source_arrow)',
             'width': "data(weight)",
-            'line-color': '#8a38ae',
-            'source-arrow-color': '#8a38ae',
-            'target-arrow-color': '#8a38ae',
+            'line-color': '#000',
+            'source-arrow-color': '#000',
+            'target-arrow-color': '#000',
             'curve-style': 'bezier'
         }),
 

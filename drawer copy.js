@@ -3,8 +3,6 @@ $(function (){
     var source = new Array();
     var target = new Array();
     var edges = new Array();
-    var vertical = 1;
-    var horizon = 1;
 
     //get each data from object
     for(i=0;i<cytosol.length;i++){
@@ -12,28 +10,28 @@ $(function (){
         //color for node of sucrose/starch metabolism pathway
         var color = '#DF013A';
 
-        if (cytosol[i].pathway == "nucleotide biosynthesis pathway") {
+        if (cytosol[i].pathway.includes("nucleotide biosynthesis")) {
             color = '#FCB1ED';
         }
-        else if(cytosol[i].pathway == "cell wall biosynthesis pathway"){
+        else if(cytosol[i].pathway.includes("cell wall biosynthesis")){
             color = '#FCB1ED';
         }
-        else if (cytosol[i].pathway == "pentose phosphate pathway") {
+        else if (cytosol[i].pathway.includes("pentose phosphate")) {
             color = '#FCB1ED';   //ผิด     
         }
-        else if (cytosol[i].pathway == "respiration pathway pathway") {
+        else if (cytosol[i].pathway.includes("respiration")) {
             color = '#FCB1ED'; //ผิด
         }
-        else if (cytosol[i].pathway == "amino acid biosynthesis pathway") {
+        else if (cytosol[i].pathway.includes("amino acid biosynthesis")) {
             color = '#FCB1ED'; //ผิด
         }
-        else if (cytosol[i].pathway == "fatty acid biosynthesis pathway") {
+        else if (cytosol[i].pathway.includes("fatty acid biosynthesis")) {
             color = '#FCB1ED'; //ผิด
         }
-        else if (cytosol[i].abbr.startsWith("T") == true) {//transporter
+        else if (cytosol[i].abbr.startsWith("T")) {//transporter
             color = '#FCB1ED'; //ผิด
         }
-        else if (cytosol[i].abbr.startsWith("E") == true) {//external
+        else if (cytosol[i].abbr.startsWith("E")) {//external
             color = '#000000';
         }
 
@@ -45,15 +43,11 @@ $(function (){
         if (cytosol[i].substance != undefined) {
             sourceData = {
                 "data" : {
-                    "id" : cytosol[i].substance,
+                    "id" : cytosol[i].substance + '-' + cytosol[i].abbr,
                     "nc": color,
                     "shape" : 'ellipse',
                     "width" : 15,
                     "height" : 15
-                },
-                "position":{
-                    "x":50,
-                    "y":45
                 }
             };
         }
@@ -61,14 +55,10 @@ $(function (){
             sourceData = {
                 "data" : {
                     "id" : cytosol[i].abbr,
-                    "nc": '#959090',
+                    "nc": color,
                     "shape" : 'ellipse',
                     "width" : 5,
                     "height" : 5
-                },
-                "position":{
-                    "x":50,
-                    "y":45
                 }
             };
         }
@@ -81,15 +71,11 @@ $(function (){
         if (cytosol[i].product != undefined) {
             targetData = {
                 "data" : {
-                    "id" : cytosol[i].product,
+                    "id" : cytosol[i].abbr + '-' + cytosol[i].product,
                     "nc": color,
                     "shape" : 'ellipse',
                     "width" : 15,
                     "height" : 15
-                },
-                "position":{
-                    "x":50,
-                    "y":45
                 }
             };
         }
@@ -97,14 +83,10 @@ $(function (){
             targetData = {
                 "data" : {
                     "id" : cytosol[i].abbr,
-                    "nc": '#959090',
+                    "nc": color,
                     "shape" : 'ellipse',
                     "width" : 5,
                     "height" : 5
-                },
-                "position":{
-                    "x":50,
-                    "y":45
                 }
             };
         }
@@ -118,7 +100,7 @@ $(function (){
             edgeData = {
                 "data" : {
                     "id": cytosol[i].substance + '-' + cytosol[i].name,
-                    "weight": 1,
+                    "weight": 4,
                     "source": cytosol[i].substance,
                     "target": cytosol[i].abbr,
                     "target_arrow" : cytosol[i].target_arrow,
@@ -130,7 +112,7 @@ $(function (){
             edgeData = {
                 "data" : {
                     "id": cytosol[i].name + '-' + cytosol[i].product,
-                    "weight": 1,
+                    "weight": 4,
                     "source": cytosol[i].abbr,
                     "target": cytosol[i].product,
                     "target_arrow" : cytosol[i].target_arrow,
@@ -161,8 +143,6 @@ $(function (){
           .css({
             'content': 'data(id)',
             'color' : '#000',
-            'width' : 'data(width)',
-            'height' : 'data(height)',
             'background-color': 'data(nc)',
             'shape' : 'data(shape)'
           })
@@ -171,11 +151,10 @@ $(function (){
             'target-arrow-shape': 'data(target_arrow)',
             'source-arrow-shape': 'data(source_arrow)',
             'width': "data(weight)",
-            'line-color': '#DCD9D9',
-            'haystack-radius': 5,
-            'source-arrow-color': '#DCD9D9',
-            'target-arrow-color': '#DCD9D9',
-            'curve-style': 'haystack' //'bezier'
+            'line-color': '#000',
+            'source-arrow-color': '#000',
+            'target-arrow-color': '#000',
+            'curve-style': 'bezier'
         }),
 
         layout: {

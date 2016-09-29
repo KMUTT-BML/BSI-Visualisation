@@ -5,6 +5,7 @@ $(function (){
     var edges = new Array();
     var vertical = 1;
     var horizon = 1;
+    var count = 1;
 
     //get each data from object
     for(i=0;i<cytosol.length;i++){
@@ -16,40 +17,64 @@ $(function (){
             color = '#FCB1ED';
         }
         else if(cytosol[i].pathway == "cell wall biosynthesis pathway"){
-            color = '#FCB1ED';
+            color = '#B20FC8';
         }
         else if (cytosol[i].pathway == "pentose phosphate pathway") {
-            color = '#FCB1ED';   //ผิด     
+            color = '#305CF8';  
         }
         else if (cytosol[i].pathway == "respiration pathway pathway") {
-            color = '#FCB1ED'; //ผิด
+            color = '#59F0F8';
         }
         else if (cytosol[i].pathway == "amino acid biosynthesis pathway") {
-            color = '#FCB1ED'; //ผิด
+            color = '#59F87E';
         }
         else if (cytosol[i].pathway == "fatty acid biosynthesis pathway") {
-            color = '#FCB1ED'; //ผิด
+            color = '#FF983E';
         }
         else if (cytosol[i].abbr.startsWith("T") == true) {//transporter
-            color = '#FCB1ED'; //ผิด
+            color = '#FBF97C';
         }
         else if (cytosol[i].abbr.startsWith("E") == true) {//external
             color = '#000000';
         }
 
+        //set grid
+        if (count == 30) {
+            vertical = 25;
+            count = 1;
+            horizon = horizon + 25;
+        }
+
         //create node with source and target -------------------------------
 
         var sourceData;
+        var targetData;
         //set source node
         //if there is substance value in array
         if (cytosol[i].substance != undefined) {
             sourceData = {
                 "data" : {
                     "id" : cytosol[i].substance,
-                    "nc": color,
+                    "content" : cytosol[i].substance,
+                    "nc": '#ACE7FF',
                     "shape" : 'ellipse',
                     "width" : 15,
                     "height" : 15
+                },
+                "position":{
+                    "x":50,
+                    "y":45
+                }
+            };
+
+            targetData = {
+                "data" : {
+                    "id" : cytosol[i].abbr,
+                    "content" : '',
+                    "nc": '#959090',
+                    "shape" : 'ellipse',
+                    "width" : 5,
+                    "height" : 5
                 },
                 "position":{
                     "x":50,
@@ -61,6 +86,7 @@ $(function (){
             sourceData = {
                 "data" : {
                     "id" : cytosol[i].abbr,
+                    "content" : '',
                     "nc": '#959090',
                     "shape" : 'ellipse',
                     "width" : 5,
@@ -71,18 +97,12 @@ $(function (){
                     "y":45
                 }
             };
-        }
 
-        source.push(sourceData);
-
-        var targetData;
-        //set target node
-        //if there is product value in array
-        if (cytosol[i].product != undefined) {
             targetData = {
                 "data" : {
                     "id" : cytosol[i].product,
-                    "nc": color,
+                    "content" : cytosol[i].product,
+                    "nc": '#ACE7FF',
                     "shape" : 'ellipse',
                     "width" : 15,
                     "height" : 15
@@ -93,22 +113,7 @@ $(function (){
                 }
             };
         }
-        else{// if there is no substance value in arry, so flux will be source
-            targetData = {
-                "data" : {
-                    "id" : cytosol[i].abbr,
-                    "nc": '#959090',
-                    "shape" : 'ellipse',
-                    "width" : 5,
-                    "height" : 5
-                },
-                "position":{
-                    "x":50,
-                    "y":45
-                }
-            };
-        }
-
+        source.push(sourceData);
         target.push(targetData);
         
         // Create edge ----------------------------------------------
@@ -159,7 +164,7 @@ $(function (){
         style: cytoscape.stylesheet()
         .selector('node')
           .css({
-            'content': 'data(id)',
+            'content': 'data(content)',
             'color' : '#000',
             'width' : 'data(width)',
             'height' : 'data(height)',
@@ -175,14 +180,14 @@ $(function (){
             'haystack-radius': 5,
             'source-arrow-color': '#DCD9D9',
             'target-arrow-color': '#DCD9D9',
-            'curve-style': 'haystack' //'bezier'
+            'curve-style': 'bezier'
         }),
 
         layout: {
           name: 'cose',
-//          roots: '#a',
+          roots: '#a',
           rows: 1,
-          directed: true
+          directed: false
         }
 
     });

@@ -56,7 +56,7 @@ $(function (){
                 "data" : {
                     "id" : cytosol[i].substance,
                     "content" : cytosol[i].substance,
-                    "nc": '#ACE7FF',
+                    "nc": color,
                     "shape" : 'ellipse',
                     "width" : 15,
                     "height" : 15
@@ -102,7 +102,7 @@ $(function (){
                 "data" : {
                     "id" : cytosol[i].product,
                     "content" : cytosol[i].product,
-                    "nc": '#ACE7FF',
+                    "nc": color,
                     "shape" : 'ellipse',
                     "width" : 15,
                     "height" : 15
@@ -185,7 +185,7 @@ $(function (){
 
         layout: {
           name: 'cose',
-          roots: '#a',
+          //roots: '#a',
           rows: 1,
           directed: false
         }

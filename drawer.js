@@ -3,9 +3,6 @@ $(function (){
     var source = new Array();
     var target = new Array();
     var edges = new Array();
-    var vertical = 1;
-    var horizon = 1;
-    var count = 1;
 
     //get each data from object
     for(i=0;i<cytosol.length;i++){
@@ -38,12 +35,6 @@ $(function (){
             color = '#000000';
         }
 
-        //set grid
-        if (count == 30) {
-            vertical = 25;
-            count = 1;
-            horizon = horizon + 25;
-        }
 
         //create node with source and target -------------------------------
 
@@ -55,15 +46,11 @@ $(function (){
             sourceData = {
                 "data" : {
                     "id" : cytosol[i].substance,
-                    "content" : cytosol[i].substance,
-                    "nc": color,
+                    "content" : '',
+                    "nc": '#959090',
                     "shape" : 'ellipse',
-                    "width" : 15,
-                    "height" : 15
-                },
-                "position":{
-                    "x":50,
-                    "y":45
+                    "width" : 5,
+                    "height" : 5
                 }
             };
 
@@ -71,14 +58,10 @@ $(function (){
                 "data" : {
                     "id" : cytosol[i].abbr,
                     "content" : '',
-                    "nc": '#959090',
+                    "nc": color,
                     "shape" : 'ellipse',
-                    "width" : 5,
-                    "height" : 5
-                },
-                "position":{
-                    "x":50,
-                    "y":45
+                    "width" : 15,
+                    "height" : 15
                 }
             };
         }
@@ -87,29 +70,21 @@ $(function (){
                 "data" : {
                     "id" : cytosol[i].abbr,
                     "content" : '',
-                    "nc": '#959090',
+                    "nc": color,
                     "shape" : 'ellipse',
-                    "width" : 5,
-                    "height" : 5
-                },
-                "position":{
-                    "x":50,
-                    "y":45
+                    "width" : 15,
+                    "height" : 15
                 }
             };
 
             targetData = {
                 "data" : {
                     "id" : cytosol[i].product,
-                    "content" : cytosol[i].product,
-                    "nc": color,
+                    "content" : '',
+                    "nc": '#959090',
                     "shape" : 'ellipse',
-                    "width" : 15,
-                    "height" : 15
-                },
-                "position":{
-                    "x":50,
-                    "y":45
+                    "width" : 5,
+                    "height" : 5
                 }
             };
         }

@@ -28,7 +28,8 @@ data_list = []
 for row in row_list:
 
     #filter only reaction in cytosol compartment
-    if row[2].value.find('[m]') != -1:
+    if row[2].value.find('[c]') != -1:
+
 
         #set arrow style use data in Reversible column , Lower bound column , and Upper bound column
         #row[7] == 1 means reversible column = 1
@@ -68,8 +69,9 @@ for row in row_list:
 
         #set data for each substance side
         for s in tempS:
-            if s != '+' and s.find('[m]') != -1:
+            if s != '+' and s.find('[c]') != -1:
                 cell_dict = {}
+                cell_dict['reaction'] = reaction
                 #set substance attribute
                 cell_dict['substance'] = s
                 #Abbreviation column
@@ -88,8 +90,9 @@ for row in row_list:
 
         #set data for each product side
         for t in tempT:
-            if t != '+' and t.find('[m]') != -1:
+            if t != '+' and t.find('[c]') != -1:
                 cell_dict = {}
+                cell_dict['reaction'] = reaction
                 #set product attribute
                 cell_dict['product'] = t
                 #Abbreviation column
@@ -110,8 +113,8 @@ for row in row_list:
 data_json = json.dumps(data_list)
 
 # Write file
-with open('result_mitochondria.js', 'w') as f:
-    f.write('var mitochondria = ')
+with open('result_cytosol.js', 'w') as f:
+    f.write('var cytosol = ')
     f.write(data_json)
 
-subprocess.check_output('start games.html', shell=True)
+#subprocess.check_output('start games.html', shell=True)

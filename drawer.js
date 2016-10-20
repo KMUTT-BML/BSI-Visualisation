@@ -49,7 +49,7 @@ $(function() {
 
             targetData = {
                 "data": {
-                    "id": cytosol[i].abbr,
+                    "id": cytosol[i].reaction,
                     "content": cytosol[i].name,
                     "nc": color,
                     "shape": 'ellipse',
@@ -60,7 +60,7 @@ $(function() {
         } else { // if there is no substance value in arry, so flux will be source
             sourceData = {
                 "data": {
-                    "id": cytosol[i].abbr,
+                    "id": cytosol[i].reaction,
                     "content": cytosol[i].name,
                     "nc": color,
                     "shape": 'ellipse',
@@ -92,7 +92,7 @@ $(function() {
                     "id": cytosol[i].substance + '-' + cytosol[i].name,
                     "weight": 1,
                     "source": cytosol[i].substance,
-                    "target": cytosol[i].abbr,
+                    "target": cytosol[i].reaction,
                     "target_arrow": cytosol[i].target_arrow,
                     "source_arrow": cytosol[i].source_arrow
                 }
@@ -102,7 +102,7 @@ $(function() {
                 "data": {
                     "id": cytosol[i].name + '-' + cytosol[i].product,
                     "weight": 1,
-                    "source": cytosol[i].abbr,
+                    "source": cytosol[i].reaction,
                     "target": cytosol[i].product,
                     "target_arrow": cytosol[i].target_arrow,
                     "source_arrow": cytosol[i].source_arrow
@@ -112,7 +112,7 @@ $(function() {
         edges.push(edgeData);
 
 
-        
+
     }
 
 
@@ -163,21 +163,84 @@ $(function() {
 
     });
 
-    //Added Tooltip to each node
-    for (i = 0; i < cytosol.length; i++) {
-        cy.$( '#' + cytosol[i].abbr).qtip({
-          content: 'Hello!',
-          position: {
+    cy.elements().qtip({
+        content: function(){ return this.id() },
+        position: {
             my: 'top center',
             at: 'bottom center'
-          },
-          style: {
+        },
+        style: {
             classes: 'qtip-bootstrap',
             tip: {
-              width: 16,
-              height: 8
+                width: 16,
+                height: 8
             }
-          }
-        });
-    }
+        }
+    });
+
+    //Added Tooltip to each node
+    // for (i = 0; i < cytosol.length; i++) {
+    //     if (cytosol[i].substance != undefined) {
+    //         cy.$('#' + cytosol[i].abbr).qtip({
+    //             content: cytosol[i].reaction,
+    //             position: {
+    //                 my: 'top center',
+    //                 at: 'bottom center'
+    //             },
+    //             style: {
+    //                 classes: 'qtip-bootstrap',
+    //                 tip: {
+    //                     width: 16,
+    //                     height: 8
+    //                 }
+    //             }
+    //         });
+
+    //         cy.$('#' + cytosol[i].substance).qtip({
+    //             content: cytosol[i].substance,
+    //             position: {
+    //                 my: 'top center',
+    //                 at: 'bottom center'
+    //             },
+    //             style: {
+    //                 classes: 'qtip-bootstrap',
+    //                 tip: {
+    //                     width: 16,
+    //                     height: 8
+    //                 }
+    //             }
+    //         });
+
+    //     } else {
+    //         cy.$('#' + cytosol[i].abbr).qtip({
+    //             content: cytosol[i].reaction,
+    //             position: {
+    //                 my: 'top center',
+    //                 at: 'bottom center'
+    //             },
+    //             style: {
+    //                 classes: 'qtip-bootstrap',
+    //                 tip: {
+    //                     width: 16,
+    //                     height: 8
+    //                 }
+    //             }
+    //         });
+
+    //         cy.$('#' + cytosol[i].product).qtip({
+    //             content: ccytosol[i].product,
+    //             position: {
+    //                 my: 'top center',
+    //                 at: 'bottom center'
+    //             },
+    //             style: {
+    //                 classes: 'qtip-bootstrap',
+    //                 tip: {
+    //                     width: 16,
+    //                     height: 8
+    //                 }
+    //             }
+    //         });
+    //     }
+    // }
 });

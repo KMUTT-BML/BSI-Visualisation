@@ -89,7 +89,7 @@ $(function() {
         if (cytosol[i].substance != undefined) {
             edgeData = {
                 "data": {
-                    "id": cytosol[i].substance + '-' + cytosol[i].name,
+                    "id": cytosol[i].name + '-' + cytosol[i].substance,
                     "weight": 1,
                     "source": cytosol[i].substance,
                     "target": cytosol[i].reaction,
@@ -154,17 +154,21 @@ $(function() {
             }),
 
         layout: {
-            name: 'grid',
-            //roots: '#a',
-            padding: 100,
-            //rows: 1,
-            directed: false
+            name: 'concentric',
+            concentric: function( node ){
+              return node.degree();
+            },
+            levelWidth: function( nodes ){
+              return 2;
+            }
         }
 
     });
 
     cy.elements().qtip({
-        content: function(){ return this.id() },
+        content: function() {
+            return this.id()
+        },
         position: {
             my: 'top center',
             at: 'bottom center'
@@ -178,69 +182,4 @@ $(function() {
         }
     });
 
-    //Added Tooltip to each node
-    // for (i = 0; i < cytosol.length; i++) {
-    //     if (cytosol[i].substance != undefined) {
-    //         cy.$('#' + cytosol[i].abbr).qtip({
-    //             content: cytosol[i].reaction,
-    //             position: {
-    //                 my: 'top center',
-    //                 at: 'bottom center'
-    //             },
-    //             style: {
-    //                 classes: 'qtip-bootstrap',
-    //                 tip: {
-    //                     width: 16,
-    //                     height: 8
-    //                 }
-    //             }
-    //         });
-
-    //         cy.$('#' + cytosol[i].substance).qtip({
-    //             content: cytosol[i].substance,
-    //             position: {
-    //                 my: 'top center',
-    //                 at: 'bottom center'
-    //             },
-    //             style: {
-    //                 classes: 'qtip-bootstrap',
-    //                 tip: {
-    //                     width: 16,
-    //                     height: 8
-    //                 }
-    //             }
-    //         });
-
-    //     } else {
-    //         cy.$('#' + cytosol[i].abbr).qtip({
-    //             content: cytosol[i].reaction,
-    //             position: {
-    //                 my: 'top center',
-    //                 at: 'bottom center'
-    //             },
-    //             style: {
-    //                 classes: 'qtip-bootstrap',
-    //                 tip: {
-    //                     width: 16,
-    //                     height: 8
-    //                 }
-    //             }
-    //         });
-
-    //         cy.$('#' + cytosol[i].product).qtip({
-    //             content: ccytosol[i].product,
-    //             position: {
-    //                 my: 'top center',
-    //                 at: 'bottom center'
-    //             },
-    //             style: {
-    //                 classes: 'qtip-bootstrap',
-    //                 tip: {
-    //                     width: 16,
-    //                     height: 8
-    //                 }
-    //             }
-    //         });
-    //     }
-    // }
 });

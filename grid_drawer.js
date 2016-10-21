@@ -5,26 +5,26 @@ $(function() {
     var edges = new Array();
 
     //get each data from object
-    for (i = 0; i < cytosol.length; i++) {
+    for (i = 0; i < data.length; i++) {
         //separate pathway by color of node
         //color for node of sucrose/starch metabolism pathway
         var color = '#DF013A';
 
-        if (cytosol[i].pathway == "nucleotide biosynthesis pathway") {
+        if (data[i].pathway == "nucleotide biosynthesis pathway") {
             color = '#FCB1ED';
-        } else if (cytosol[i].pathway == "cell wall biosynthesis pathway") {
+        } else if (data[i].pathway == "cell wall biosynthesis pathway") {
             color = '#B20FC8';
-        } else if (cytosol[i].pathway == "pentose phosphate pathway") {
+        } else if (data[i].pathway == "pentose phosphate pathway") {
             color = '#305CF8';
-        } else if (cytosol[i].pathway == "respiration pathway pathway") {
+        } else if (data[i].pathway == "respiration pathway pathway") {
             color = '#59F0F8';
-        } else if (cytosol[i].pathway == "amino acid biosynthesis pathway") {
+        } else if (data[i].pathway == "amino acid biosynthesis pathway") {
             color = '#59F87E';
-        } else if (cytosol[i].pathway == "fatty acid biosynthesis pathway") {
+        } else if (data[i].pathway == "fatty acid biosynthesis pathway") {
             color = '#FF983E';
-        } else if (cytosol[i].abbr.startsWith("T") == true) { //transporter
+        } else if (data[i].abbr.startsWith("T") == true) { //transporter
             color = '#FBF97C';
-        } else if (cytosol[i].abbr.startsWith("E") == true) { //external
+        } else if (data[i].abbr.startsWith("E") == true) { //external
             color = '#000000';
         };
 
@@ -35,10 +35,10 @@ $(function() {
         var targetData;
         //set source node
         //if there is substance value in array
-        if (cytosol[i].substance != undefined) {
+        if (data[i].substance != undefined) {
             sourceData = {
                 "data": {
-                    "id": cytosol[i].substance,
+                    "id": data[i].substance,
                     "content": '',
                     "nc": '#959090',
                     "shape": 'ellipse',
@@ -49,10 +49,10 @@ $(function() {
 
             targetData = {
                 "data": {
-                    "id": cytosol[i].reaction,
-                    "content": cytosol[i].name,
+                    "id": data[i].reaction,
+                    "content": data[i].name,
                     "nc": color,
-                    "shape": 'ellipse',
+                    "shape": data[i].shape,
                     "width": 15,
                     "height": 15
                 }
@@ -60,10 +60,10 @@ $(function() {
         } else { // if there is no substance value in arry, so flux will be source
             sourceData = {
                 "data": {
-                    "id": cytosol[i].reaction,
-                    "content": cytosol[i].name,
+                    "id": data[i].reaction,
+                    "content": data[i].name,
                     "nc": color,
-                    "shape": 'ellipse',
+                    "shape": data[i].shape,
                     "width": 15,
                     "height": 15
                 }
@@ -71,7 +71,7 @@ $(function() {
 
             targetData = {
                 "data": {
-                    "id": cytosol[i].product,
+                    "id": data[i].product,
                     "content": '',
                     "nc": '#959090',
                     "shape": 'ellipse',
@@ -86,26 +86,26 @@ $(function() {
         // Create edge ----------------------------------------------
         var edgeData;
         //edge between substance and flux
-        if (cytosol[i].substance != undefined) {
+        if (data[i].substance != undefined) {
             edgeData = {
                 "data": {
-                    "id": cytosol[i].substance + '-' + cytosol[i].name,
+                    "id": data[i].substance + '-' + data[i].name,
                     "weight": 1,
-                    "source": cytosol[i].substance,
-                    "target": cytosol[i].reaction,
-                    "target_arrow": cytosol[i].target_arrow,
-                    "source_arrow": cytosol[i].source_arrow
+                    "source": data[i].substance,
+                    "target": data[i].reaction,
+                    "target_arrow": data[i].target_arrow,
+                    "source_arrow": data[i].source_arrow
                 }
             };
         } else { //edge between flux and product
             edgeData = {
                 "data": {
-                    "id": cytosol[i].name + '-' + cytosol[i].product,
+                    "id": data[i].name + '-' + data[i].product,
                     "weight": 1,
-                    "source": cytosol[i].reaction,
-                    "target": cytosol[i].product,
-                    "target_arrow": cytosol[i].target_arrow,
-                    "source_arrow": cytosol[i].source_arrow
+                    "source": data[i].reaction,
+                    "target": data[i].product,
+                    "target_arrow": data[i].target_arrow,
+                    "source_arrow": data[i].source_arrow
                 }
             };
         }

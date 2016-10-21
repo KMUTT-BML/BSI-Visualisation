@@ -61,7 +61,7 @@ for row in row_list:
     #plit substance and product groups into array
     tempS = temp[0].split( )
     tempT = temp[1].split( )
-
+    shape = ''
     #set data for each substance side
     for s in tempS:
         if s != '+':
@@ -81,6 +81,13 @@ for row in row_list:
             cell_dict['target_arrow'] = target_arrow
             #Confidence Score column
             cell_dict['flux'] = row[11].value
+            if s.find('[c]') != -1:
+                shape = 'ellipse'
+            elif s.find('[p]') != -1:
+                shape = 'triangle'
+            else:
+                shape = 'rectangle'
+            cell_dict['shape'] = shape
             data_list.append(cell_dict)
 
     #set data for each product side
@@ -102,6 +109,13 @@ for row in row_list:
             cell_dict['target_arrow'] = target_arrow
             #Confidence Score column
             cell_dict['flux'] = row[11].value
+            if t.find('[c]') != -1:
+                shape = 'ellipse'
+            elif t.find('[p]') != -1:
+                shape = 'triangle'
+            else:
+                shape = 'rectangle'
+            cell_dict['shape'] = shape
             data_list.append(cell_dict)
 
 # Convert to JSON

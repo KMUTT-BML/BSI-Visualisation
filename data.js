@@ -5,6 +5,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00543344699046283,
+    "shape": "ellipse",
     "abbr": "R00802_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -14,6 +15,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00543344699046283,
+    "shape": "ellipse",
     "abbr": "R00802_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -23,6 +25,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00543344699046283,
+    "shape": "ellipse",
     "abbr": "R00802_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -32,6 +35,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00543344699046283,
+    "shape": "ellipse",
     "abbr": "R00802_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -41,6 +45,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.074495242810259,
+    "shape": "ellipse",
     "abbr": "R00806_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -50,6 +55,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.074495242810259,
+    "shape": "ellipse",
     "abbr": "R00806_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -59,6 +65,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.074495242810259,
+    "shape": "ellipse",
     "abbr": "R00806_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -68,6 +75,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.074495242810259,
+    "shape": "ellipse",
     "abbr": "R00806_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -77,6 +85,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00498283413588302,
+    "shape": "ellipse",
     "abbr": "R01602_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -86,6 +95,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00498283413588302,
+    "shape": "ellipse",
     "abbr": "R01602_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -95,6 +105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01786_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -104,6 +115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01786_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -113,6 +125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01786_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -122,6 +135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01786_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -131,6 +145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0795547770064961,
+    "shape": "ellipse",
     "abbr": "R03920_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -140,6 +155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0795547770064961,
+    "shape": "ellipse",
     "abbr": "R03920_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -149,6 +165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0795547770064961,
+    "shape": "ellipse",
     "abbr": "R03920_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -158,6 +175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0795547770064961,
+    "shape": "ellipse",
     "abbr": "R03920_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -167,6 +185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R03321_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -176,6 +195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R03321_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -185,6 +205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02740_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -194,6 +215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02740_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -203,6 +225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 9.30477389697015e-18,
+    "shape": "ellipse",
     "abbr": "R00289_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -212,6 +235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 9.30477389697015e-18,
+    "shape": "ellipse",
     "abbr": "R00289_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -221,6 +245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 9.30477389697015e-18,
+    "shape": "ellipse",
     "abbr": "R00289_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -230,6 +255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 9.30477389697015e-18,
+    "shape": "ellipse",
     "abbr": "R00289_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -239,6 +265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R08639_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -248,6 +275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R08639_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -257,6 +285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.71513434778451e-28,
+    "shape": "ellipse",
     "abbr": "R02739_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -266,6 +295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.71513434778451e-28,
+    "shape": "ellipse",
     "abbr": "R02739_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -275,6 +305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01600_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -284,6 +315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01600_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -293,6 +325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01600_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -302,6 +335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01600_c",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -311,6 +345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744916479442882,
+    "shape": "ellipse",
     "abbr": "R00287_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -320,6 +355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744916479442882,
+    "shape": "ellipse",
     "abbr": "R00287_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -329,6 +365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744916479442882,
+    "shape": "ellipse",
     "abbr": "R00287_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -338,6 +375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744916479442882,
+    "shape": "ellipse",
     "abbr": "R00287_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -347,6 +385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R02889_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -356,6 +395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R02889_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -365,6 +405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R02889_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -374,6 +415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R02889_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -383,6 +425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R00286_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -392,6 +435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R00286_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -401,6 +445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "rectangle",
     "abbr": "R00286_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -410,6 +455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R00286_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -419,6 +465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R00286_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -428,6 +475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "rectangle",
     "abbr": "R00286_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -437,6 +485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R00286_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -446,6 +495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "rectangle",
     "abbr": "R00286_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -455,6 +505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R00286_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -464,6 +515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02886_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -473,6 +525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02886_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -482,6 +535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02886_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -491,6 +545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02886_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -500,6 +555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R01384_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -509,6 +565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R01384_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -518,6 +575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R01384_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -527,6 +585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R03928_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -536,6 +595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R03928_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -545,6 +605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R03928_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -554,6 +615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "R03928_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -563,6 +625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01433_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -572,6 +635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01433_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -581,6 +645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01433_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -590,6 +655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01433_c",
     "pathway": "cell wall biosynthesis pathway"
 }, {
@@ -599,6 +665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00148831125944985,
+    "shape": "ellipse",
     "abbr": "R01830_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -608,6 +675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00148831125944985,
+    "shape": "ellipse",
     "abbr": "R01830_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -617,6 +685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00148831125944985,
+    "shape": "ellipse",
     "abbr": "R01830_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -626,6 +695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00148831125944985,
+    "shape": "ellipse",
     "abbr": "R01830_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -635,6 +705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01529_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -644,6 +715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01529_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -653,6 +725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.71511675020999e-28,
+    "shape": "ellipse",
     "abbr": "R01056_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -662,6 +735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.71511675020999e-28,
+    "shape": "ellipse",
     "abbr": "R01056_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -671,6 +745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00162296535240855,
+    "shape": "ellipse",
     "abbr": "R01641_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -680,6 +755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00162296535240855,
+    "shape": "ellipse",
     "abbr": "R01641_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -689,6 +765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00162296535240855,
+    "shape": "ellipse",
     "abbr": "R01641_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -698,6 +775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00162296535240855,
+    "shape": "ellipse",
     "abbr": "R01641_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -707,6 +785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01845_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -716,6 +795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01845_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -725,6 +805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01845_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -734,6 +815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01845_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -743,6 +825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01049_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -752,6 +835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01049_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -761,6 +845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01049_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -770,6 +855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01049_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -779,6 +865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01829_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -788,6 +875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01829_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -797,6 +885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01829_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -806,6 +895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.4796942869769e-29,
+    "shape": "ellipse",
     "abbr": "R01051_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -815,6 +905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.4796942869769e-29,
+    "shape": "ellipse",
     "abbr": "R01051_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -824,6 +915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.4796942869769e-29,
+    "shape": "ellipse",
     "abbr": "R01051_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -833,6 +925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.4796942869769e-29,
+    "shape": "ellipse",
     "abbr": "R01051_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -842,6 +935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00162296535240855,
+    "shape": "ellipse",
     "abbr": "R01827_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -851,6 +945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00162296535240855,
+    "shape": "ellipse",
     "abbr": "R01827_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -860,6 +955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00162296535240855,
+    "shape": "ellipse",
     "abbr": "R01827_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -869,6 +965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00162296535240855,
+    "shape": "ellipse",
     "abbr": "R01827_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -878,6 +975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71513048649191e-28,
+    "shape": "ellipse",
     "abbr": "R02736_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -887,6 +985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71513048649191e-28,
+    "shape": "ellipse",
     "abbr": "R02736_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -896,6 +995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71513048649191e-28,
+    "shape": "ellipse",
     "abbr": "R02736_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -905,6 +1005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71513048649191e-28,
+    "shape": "ellipse",
     "abbr": "R02736_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -914,6 +1015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71513048649191e-28,
+    "shape": "ellipse",
     "abbr": "R02736_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -923,6 +1025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02035_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -932,6 +1035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02035_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -941,6 +1045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02035_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -950,6 +1055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71512700010999e-28,
+    "shape": "ellipse",
     "abbr": "R01528_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -959,6 +1065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71512700010999e-28,
+    "shape": "ellipse",
     "abbr": "R01528_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -968,6 +1075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71512700010999e-28,
+    "shape": "ellipse",
     "abbr": "R01528_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -977,6 +1085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71512700010999e-28,
+    "shape": "ellipse",
     "abbr": "R01528_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -986,6 +1095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71512700010999e-28,
+    "shape": "ellipse",
     "abbr": "R01528_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -995,6 +1105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.71512700010999e-28,
+    "shape": "ellipse",
     "abbr": "R01528_c",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -1004,6 +1115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0826660536183545,
+    "shape": "ellipse",
     "abbr": "R02073_c",
     "pathway": "respiration pathway"
 }, {
@@ -1013,6 +1125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0826660536183545,
+    "shape": "ellipse",
     "abbr": "R02073_c",
     "pathway": "respiration pathway"
 }, {
@@ -1022,6 +1135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0826660536183545,
+    "shape": "ellipse",
     "abbr": "R02073_c",
     "pathway": "respiration pathway"
 }, {
@@ -1031,6 +1145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0826660536183545,
+    "shape": "ellipse",
     "abbr": "R02073_c",
     "pathway": "respiration pathway"
 }, {
@@ -1040,6 +1155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04780_c",
     "pathway": "respiration pathway/pentose phosphate pathway"
 }, {
@@ -1049,6 +1165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04780_c",
     "pathway": "respiration pathway/pentose phosphate pathway"
 }, {
@@ -1058,6 +1175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04780_c",
     "pathway": "respiration pathway/pentose phosphate pathway"
 }, {
@@ -1067,6 +1185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04780_c",
     "pathway": "respiration pathway/pentose phosphate pathway"
 }, {
@@ -1076,6 +1195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04779_c",
     "pathway": "respiration pathway"
 }, {
@@ -1085,6 +1205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04779_c",
     "pathway": "respiration pathway"
 }, {
@@ -1094,6 +1215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04779_c",
     "pathway": "respiration pathway"
 }, {
@@ -1103,6 +1225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04779_c",
     "pathway": "respiration pathway"
 }, {
@@ -1112,6 +1235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01070_c",
     "pathway": "respiration pathway/pentose phosphate pathway"
 }, {
@@ -1121,6 +1245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01070_c",
     "pathway": "respiration pathway/pentose phosphate pathway"
 }, {
@@ -1130,6 +1255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01070_c",
     "pathway": "respiration pathway/pentose phosphate pathway"
 }, {
@@ -1139,6 +1265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01015_c",
     "pathway": "respiration pathway"
 }, {
@@ -1148,6 +1275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01015_c",
     "pathway": "respiration pathway"
 }, {
@@ -1157,6 +1285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.151978029320269,
+    "shape": "ellipse",
     "abbr": "R01061_c",
     "pathway": "respiration pathway"
 }, {
@@ -1166,6 +1295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.151978029320269,
+    "shape": "ellipse",
     "abbr": "R01061_c",
     "pathway": "respiration pathway"
 }, {
@@ -1175,6 +1305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.151978029320269,
+    "shape": "ellipse",
     "abbr": "R01061_c",
     "pathway": "respiration pathway"
 }, {
@@ -1184,6 +1315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.151978029320269,
+    "shape": "ellipse",
     "abbr": "R01061_c",
     "pathway": "respiration pathway"
 }, {
@@ -1193,6 +1325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.151978029320269,
+    "shape": "ellipse",
     "abbr": "R01061_c",
     "pathway": "respiration pathway"
 }, {
@@ -1202,6 +1335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.151978029320269,
+    "shape": "ellipse",
     "abbr": "R01061_c",
     "pathway": "respiration pathway"
 }, {
@@ -1211,6 +1345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00033145622882143,
+    "shape": "ellipse",
     "abbr": "R01058_c",
     "pathway": "respiration pathway"
 }, {
@@ -1220,6 +1355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00033145622882143,
+    "shape": "ellipse",
     "abbr": "R01058_c",
     "pathway": "respiration pathway"
 }, {
@@ -1229,6 +1365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00033145622882143,
+    "shape": "ellipse",
     "abbr": "R01058_c",
     "pathway": "respiration pathway"
 }, {
@@ -1238,6 +1375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00033145622882143,
+    "shape": "ellipse",
     "abbr": "R01058_c",
     "pathway": "respiration pathway"
 }, {
@@ -1247,6 +1385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00033145622882143,
+    "shape": "ellipse",
     "abbr": "R01058_c",
     "pathway": "respiration pathway"
 }, {
@@ -1256,6 +1395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00033145622882143,
+    "shape": "ellipse",
     "abbr": "R01058_c",
     "pathway": "respiration pathway"
 }, {
@@ -1265,6 +1405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01512_c",
     "pathway": "respiration pathway"
 }, {
@@ -1274,6 +1415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01512_c",
     "pathway": "respiration pathway"
 }, {
@@ -1283,6 +1425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01512_c",
     "pathway": "respiration pathway"
 }, {
@@ -1292,6 +1435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01512_c",
     "pathway": "respiration pathway"
 }, {
@@ -1301,6 +1445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01518_c",
     "pathway": "respiration pathway"
 }, {
@@ -1310,6 +1455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01518_c",
     "pathway": "respiration pathway"
 }, {
@@ -1319,6 +1465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00658_c",
     "pathway": "respiration pathway"
 }, {
@@ -1328,6 +1475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00658_c",
     "pathway": "respiration pathway"
 }, {
@@ -1337,6 +1485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00658_c",
     "pathway": "respiration pathway"
 }, {
@@ -1346,6 +1495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00200_c",
     "pathway": "respiration pathway/nucleotide biosynthesis pathway"
 }, {
@@ -1355,6 +1505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00200_c",
     "pathway": "respiration pathway/nucleotide biosynthesis pathway"
 }, {
@@ -1364,6 +1515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00200_c",
     "pathway": "respiration pathway/nucleotide biosynthesis pathway"
 }, {
@@ -1373,6 +1525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00200_c",
     "pathway": "respiration pathway/nucleotide biosynthesis pathway"
 }, {
@@ -1382,6 +1535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01138_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1391,6 +1545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01138_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1400,6 +1555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01138_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1409,6 +1565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01138_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1418,6 +1575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00430_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1427,6 +1585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00430_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1436,6 +1595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00430_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1445,6 +1605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00430_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1454,6 +1615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01858_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1463,6 +1625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01858_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1472,6 +1635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01858_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1481,6 +1645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01858_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -1490,6 +1655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00341_c",
     "pathway": "respiration pathway"
 }, {
@@ -1499,6 +1665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00341_c",
     "pathway": "respiration pathway"
 }, {
@@ -1508,6 +1675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00341_c",
     "pathway": "respiration pathway"
 }, {
@@ -1517,6 +1685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00341_c",
     "pathway": "respiration pathway"
 }, {
@@ -1526,6 +1695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00341_c",
     "pathway": "respiration pathway"
 }, {
@@ -1535,6 +1705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0022893951866891,
+    "shape": "ellipse",
     "abbr": "R00344_c",
     "pathway": "respiration pathway"
 }, {
@@ -1544,6 +1715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0022893951866891,
+    "shape": "ellipse",
     "abbr": "R00344_c",
     "pathway": "respiration pathway"
 }, {
@@ -1553,6 +1725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0022893951866891,
+    "shape": "ellipse",
     "abbr": "R00344_c",
     "pathway": "respiration pathway"
 }, {
@@ -1562,6 +1735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0022893951866891,
+    "shape": "ellipse",
     "abbr": "R00344_c",
     "pathway": "respiration pathway"
 }, {
@@ -1571,6 +1745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0022893951866891,
+    "shape": "ellipse",
     "abbr": "R00344_c",
     "pathway": "respiration pathway"
 }, {
@@ -1580,6 +1755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0022893951866891,
+    "shape": "ellipse",
     "abbr": "R00344_c",
     "pathway": "respiration pathway"
 }, {
@@ -1589,6 +1765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0022893951866891,
+    "shape": "ellipse",
     "abbr": "R00344_c",
     "pathway": "respiration pathway"
 }, {
@@ -1598,6 +1775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.153877415101203,
+    "shape": "ellipse",
     "abbr": "R00754_c",
     "pathway": "respiration pathway"
 }, {
@@ -1607,6 +1785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.153877415101203,
+    "shape": "ellipse",
     "abbr": "R00754_c",
     "pathway": "respiration pathway"
 }, {
@@ -1616,6 +1795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.153877415101203,
+    "shape": "ellipse",
     "abbr": "R00754_c",
     "pathway": "respiration pathway"
 }, {
@@ -1625,6 +1805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.153877415101203,
+    "shape": "ellipse",
     "abbr": "R00754_c",
     "pathway": "respiration pathway"
 }, {
@@ -1634,6 +1815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.153877415101203,
+    "shape": "ellipse",
     "abbr": "R00754_c",
     "pathway": "respiration pathway"
 }, {
@@ -1643,6 +1825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00746_c",
     "pathway": "respiration pathway"
 }, {
@@ -1652,6 +1835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00746_c",
     "pathway": "respiration pathway"
 }, {
@@ -1661,6 +1845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00746_c",
     "pathway": "respiration pathway"
 }, {
@@ -1670,6 +1855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00746_c",
     "pathway": "respiration pathway"
 }, {
@@ -1679,6 +1865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00746_c",
     "pathway": "respiration pathway"
 }, {
@@ -1688,6 +1875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.154374599444435,
+    "shape": "ellipse",
     "abbr": "R00224_c",
     "pathway": "respiration"
 }, {
@@ -1697,6 +1885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.154374599444435,
+    "shape": "ellipse",
     "abbr": "R00224_c",
     "pathway": "respiration"
 }, {
@@ -1706,6 +1895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.154374599444435,
+    "shape": "ellipse",
     "abbr": "R00224_c",
     "pathway": "respiration"
 }, {
@@ -1715,6 +1905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00235_c",
     "pathway": "respiration pathway"
 }, {
@@ -1724,6 +1915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00235_c",
     "pathway": "respiration pathway"
 }, {
@@ -1733,6 +1925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00235_c",
     "pathway": "respiration pathway"
 }, {
@@ -1742,6 +1935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00235_c",
     "pathway": "respiration pathway"
 }, {
@@ -1751,6 +1945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00235_c",
     "pathway": "respiration pathway"
 }, {
@@ -1760,6 +1955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00235_c",
     "pathway": "respiration pathway"
 }, {
@@ -1769,6 +1965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000497184343232145,
+    "shape": "ellipse",
     "abbr": "R00710_c",
     "pathway": "respiration pathway"
 }, {
@@ -1778,6 +1975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000497184343232145,
+    "shape": "ellipse",
     "abbr": "R00710_c",
     "pathway": "respiration pathway"
 }, {
@@ -1787,6 +1985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000497184343232145,
+    "shape": "ellipse",
     "abbr": "R00710_c",
     "pathway": "respiration pathway"
 }, {
@@ -1796,6 +1995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000497184343232145,
+    "shape": "ellipse",
     "abbr": "R00710_c",
     "pathway": "respiration pathway"
 }, {
@@ -1805,6 +2005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000497184343232145,
+    "shape": "ellipse",
     "abbr": "R00710_c",
     "pathway": "respiration pathway"
 }, {
@@ -1814,6 +2015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000497184343232145,
+    "shape": "ellipse",
     "abbr": "R00710_c",
     "pathway": "respiration pathway"
 }, {
@@ -1823,6 +2025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "R01251_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1832,6 +2035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "R01251_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1841,6 +2045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "R01251_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1850,6 +2055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "R01251_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1859,6 +2065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "R01251_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1868,6 +2075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00945_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1877,6 +2085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00945_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1886,6 +2095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00945_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1895,6 +2105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00945_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1904,6 +2115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00945_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1913,6 +2125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00259_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1922,6 +2135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00259_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1931,6 +2145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00259_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1940,6 +2155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00259_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1949,6 +2165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02282_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1958,6 +2175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02282_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1967,6 +2185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02282_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1976,6 +2195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02282_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1985,6 +2205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "R00667_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -1994,6 +2215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "R00667_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2003,6 +2225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "R00667_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2012,6 +2235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "R00667_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2021,6 +2245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00258_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2030,6 +2255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00258_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2039,6 +2265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00258_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2048,6 +2275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00258_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2057,6 +2285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00372_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2066,6 +2295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00372_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2075,6 +2305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00372_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2084,6 +2315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00372_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2093,6 +2325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00369_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2102,6 +2335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00369_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2111,6 +2345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00369_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2120,6 +2355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00369_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2129,6 +2365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000823461568478241,
+    "shape": "ellipse",
     "abbr": "R00588_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2138,6 +2375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000823461568478241,
+    "shape": "ellipse",
     "abbr": "R00588_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2147,6 +2385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000823461568478241,
+    "shape": "ellipse",
     "abbr": "R00588_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2156,6 +2395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000823461568478241,
+    "shape": "ellipse",
     "abbr": "R00588_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2165,6 +2405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000823461568478241,
+    "shape": "ellipse",
     "abbr": "R00585_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2174,6 +2415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000823461568478241,
+    "shape": "ellipse",
     "abbr": "R00585_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2183,6 +2425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000823461568478241,
+    "shape": "ellipse",
     "abbr": "R00585_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2192,6 +2435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000823461568478241,
+    "shape": "ellipse",
     "abbr": "R00585_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2201,6 +2445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00485_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2210,6 +2455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00485_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2219,6 +2465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00485_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2228,6 +2475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00485_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2237,6 +2485,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00751_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2246,6 +2495,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00751_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2255,6 +2505,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00751_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2264,6 +2515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00483_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2273,6 +2525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00483_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2282,6 +2535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00483_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2291,6 +2545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00483_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2300,6 +2555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00483_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2309,6 +2565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00483_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2318,6 +2575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00178157722991519,
+    "shape": "ellipse",
     "abbr": "R00253_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2327,6 +2585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00178157722991519,
+    "shape": "ellipse",
     "abbr": "R00253_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2336,6 +2595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00178157722991519,
+    "shape": "ellipse",
     "abbr": "R00253_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2345,6 +2605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00178157722991519,
+    "shape": "ellipse",
     "abbr": "R00253_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2354,6 +2615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00178157722991519,
+    "shape": "ellipse",
     "abbr": "R00253_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2363,6 +2625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00178157722991519,
+    "shape": "ellipse",
     "abbr": "R00253_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2372,6 +2635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00578_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2381,6 +2645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00578_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2390,6 +2655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00578_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2399,6 +2665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00578_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2408,6 +2675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00578_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2417,6 +2685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00578_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2426,6 +2695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00578_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2435,6 +2705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00578_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2444,6 +2715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2453,6 +2725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2462,6 +2735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2471,6 +2745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2480,6 +2755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2489,6 +2765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2498,6 +2775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2507,6 +2785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2516,6 +2795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2525,6 +2805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2534,6 +2815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00575_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2543,6 +2825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "spontanous2",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2552,6 +2835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "spontanous2",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2561,6 +2845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "spontanous2",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2570,6 +2855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00573_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2579,6 +2865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00573_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2588,6 +2875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00573_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2597,6 +2885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00573_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2606,6 +2895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00573_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2615,6 +2905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00573_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2624,6 +2915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00573_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2633,6 +2925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00573_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2642,6 +2935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000367984860239873,
+    "shape": "ellipse",
     "abbr": "R00365_c",
     "pathway": "not identify"
 }, {
@@ -2651,6 +2945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000367984860239873,
+    "shape": "ellipse",
     "abbr": "R00365_c",
     "pathway": "not identify"
 }, {
@@ -2660,6 +2955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000367984860239873,
+    "shape": "ellipse",
     "abbr": "R00365_c",
     "pathway": "not identify"
 }, {
@@ -2669,6 +2965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000367984860239873,
+    "shape": "ellipse",
     "abbr": "R00365_c",
     "pathway": "not identify"
 }, {
@@ -2678,6 +2975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000367984860239873,
+    "shape": "ellipse",
     "abbr": "R00365_c",
     "pathway": "not identify"
 }, {
@@ -2687,6 +2985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000367984860239873,
+    "shape": "ellipse",
     "abbr": "R00365_c",
     "pathway": "not identify"
 }, {
@@ -2696,6 +2995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000367984860239873,
+    "shape": "ellipse",
     "abbr": "R00365_c",
     "pathway": "not identify"
 }, {
@@ -2705,6 +3005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00125877347519747,
+    "shape": "ellipse",
     "abbr": "R00373_c",
     "pathway": "not identify"
 }, {
@@ -2714,6 +3015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00125877347519747,
+    "shape": "ellipse",
     "abbr": "R00373_c",
     "pathway": "not identify"
 }, {
@@ -2723,6 +3025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00125877347519747,
+    "shape": "ellipse",
     "abbr": "R00373_c",
     "pathway": "not identify"
 }, {
@@ -2732,6 +3035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00125877347519747,
+    "shape": "ellipse",
     "abbr": "R00373_c",
     "pathway": "not identify"
 }, {
@@ -2741,6 +3045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R07641_c",
     "pathway": "not identify"
 }, {
@@ -2750,6 +3055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R07641_c",
     "pathway": "not identify"
 }, {
@@ -2759,6 +3065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R07641_c",
     "pathway": "not identify"
 }, {
@@ -2768,6 +3075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R07641_c",
     "pathway": "not identify"
 }, {
@@ -2777,6 +3085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R07641_c",
     "pathway": "not identify"
 }, {
@@ -2786,6 +3095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R07641_c",
     "pathway": "not identify"
 }, {
@@ -2795,6 +3105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R07641_c",
     "pathway": "not identify"
 }, {
@@ -2804,6 +3115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R07641_c",
     "pathway": "not identify"
 }, {
@@ -2813,6 +3125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R07641_c",
     "pathway": "not identify"
 }, {
@@ -2822,6 +3135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00669_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2831,6 +3145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00669_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2840,6 +3155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00669_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2849,6 +3165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00669_c",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -2858,6 +3175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01072_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2867,6 +3185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01072_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2876,6 +3195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01072_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2885,6 +3205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01072_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2894,6 +3215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01072_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2903,6 +3225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01072_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2912,6 +3235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00190_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2921,6 +3245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00190_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2930,6 +3255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00190_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2939,6 +3265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00190_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2948,6 +3275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01245_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2957,6 +3285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01245_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2966,6 +3295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01245_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2975,6 +3305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01245_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2984,6 +3315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00185_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -2993,6 +3325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00185_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3002,6 +3335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00185_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3011,6 +3345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00185_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3020,6 +3355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01229_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3029,6 +3365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01229_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3038,6 +3375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01229_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3047,6 +3385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01229_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3056,6 +3395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.47955306327603e-29,
+    "shape": "ellipse",
     "abbr": "R01677_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3065,6 +3405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.47955306327603e-29,
+    "shape": "ellipse",
     "abbr": "R01677_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3074,6 +3415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.47955306327603e-29,
+    "shape": "ellipse",
     "abbr": "R01677_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3083,6 +3425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.47955306327603e-29,
+    "shape": "ellipse",
     "abbr": "R01677_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3092,6 +3435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04144_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3101,6 +3445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04144_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3110,6 +3455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04144_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3119,6 +3465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04144_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3128,6 +3475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04144_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3137,6 +3485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04144_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3146,6 +3495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04325_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3155,6 +3505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04325_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3164,6 +3515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04325_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3173,6 +3525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04325_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3182,6 +3535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04463_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3191,6 +3545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04463_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3200,6 +3555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04463_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3209,6 +3565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04463_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3218,6 +3575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04463_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3227,6 +3585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04463_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3236,6 +3595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04463_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3245,6 +3605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04463_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3254,6 +3615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04208_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3263,6 +3625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04208_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3272,6 +3635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04208_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3281,6 +3645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04208_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3290,6 +3655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04208_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3299,6 +3665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04209_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3308,6 +3675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04209_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3317,6 +3685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04209_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3326,6 +3695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04591_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3335,6 +3705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04591_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3344,6 +3715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04591_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3353,6 +3725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04591_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3362,6 +3735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04591_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3371,6 +3745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04591_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3380,6 +3755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04559_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3389,6 +3765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04559_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3398,6 +3775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04559_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3407,6 +3785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04560_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3416,6 +3795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04560_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3425,6 +3805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04560_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3434,6 +3815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R04560_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3443,6 +3825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01127_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3452,6 +3835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01127_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3461,6 +3845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01127_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3470,6 +3855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R01135_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3479,6 +3865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R01135_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3488,6 +3875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R01135_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3497,6 +3885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R01135_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3506,6 +3895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R01135_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3515,6 +3905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R01135_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3524,6 +3915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -8.4209296064409e-29,
+    "shape": "ellipse",
     "abbr": "R01130_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3533,6 +3925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -8.4209296064409e-29,
+    "shape": "ellipse",
     "abbr": "R01130_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3542,6 +3935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -8.4209296064409e-29,
+    "shape": "ellipse",
     "abbr": "R01130_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3551,6 +3945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -8.4209296064409e-29,
+    "shape": "ellipse",
     "abbr": "R01130_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3560,6 +3955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -8.4209296064409e-29,
+    "shape": "ellipse",
     "abbr": "R01130_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3569,6 +3965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -8.4209296064409e-29,
+    "shape": "ellipse",
     "abbr": "R01130_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3578,6 +3975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R01083_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3587,6 +3985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R01083_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3596,6 +3995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R01083_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3605,6 +4005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00127_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3614,6 +4015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00127_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3623,6 +4025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00127_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3632,6 +4035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00127_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3641,6 +4045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02017_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3650,6 +4055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02017_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3659,6 +4065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02017_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3668,6 +4075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02017_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3677,6 +4085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02017_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3686,6 +4095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01547_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3695,6 +4105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01547_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3704,6 +4115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01547_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3713,6 +4125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01547_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3722,6 +4135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01137_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3731,6 +4145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01137_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3740,6 +4155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01137_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3749,6 +4165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01137_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3758,6 +4175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01231_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3767,6 +4185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01231_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3776,6 +4195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01231_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3785,6 +4205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01231_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3794,6 +4215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01231_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3803,6 +4225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01231_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3812,6 +4235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01231_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3821,6 +4245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01231_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3830,6 +4255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00332_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3839,6 +4265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00332_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3848,6 +4275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00332_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3857,6 +4285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00332_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3866,6 +4295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00330_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3875,6 +4305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00330_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3884,6 +4315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00330_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3893,6 +4325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00330_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3902,6 +4335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02019_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3911,6 +4345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02019_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3920,6 +4355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02019_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3929,6 +4365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02019_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3938,6 +4375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02019_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3947,6 +4385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01857_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3956,6 +4395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01857_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3965,6 +4405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01857_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3974,6 +4415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01857_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3983,6 +4425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00963_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -3992,6 +4435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00963_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4001,6 +4445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00963_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4010,6 +4455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00963_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4019,6 +4465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744916479442882,
+    "shape": "ellipse",
     "abbr": "R00158_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4028,6 +4475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744916479442882,
+    "shape": "ellipse",
     "abbr": "R00158_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4037,6 +4485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744916479442882,
+    "shape": "ellipse",
     "abbr": "R00158_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4046,6 +4495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744916479442882,
+    "shape": "ellipse",
     "abbr": "R00158_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4055,6 +4505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00156_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4064,6 +4515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00156_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4073,6 +4525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00156_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4082,6 +4535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00156_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4091,6 +4545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00571_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4100,6 +4555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00571_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4109,6 +4565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00571_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4118,6 +4575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00571_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4127,6 +4585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00571_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4136,6 +4595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00571_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4145,6 +4605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00570_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4154,6 +4615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00570_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4163,6 +4625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00570_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4172,6 +4635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00570_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4181,6 +4645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02024_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4190,6 +4655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02024_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4199,6 +4665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02024_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4208,6 +4675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02024_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4217,6 +4685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02024_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4226,6 +4695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00512_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4235,6 +4705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00512_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4244,6 +4715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00512_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4253,6 +4725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00512_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4262,6 +4735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02326_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4271,6 +4745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02326_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4280,6 +4755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02326_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4289,6 +4765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02326_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4298,6 +4775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02018_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4307,6 +4785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02018_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4316,6 +4795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02018_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4325,6 +4805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02018_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4334,6 +4815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02018_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4343,6 +4825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02331_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4352,6 +4835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02331_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4361,6 +4845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02331_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4370,6 +4855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02331_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4379,6 +4865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02100_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4388,6 +4875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02100_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4397,6 +4885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02100_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4406,6 +4895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02100_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4415,6 +4905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02101_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4424,6 +4915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02101_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4433,6 +4925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02101_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4442,6 +4935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02101_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4451,6 +4945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02094_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4460,6 +4955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02094_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4469,6 +4965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02094_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4478,6 +4975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02094_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4487,6 +4985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02093_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4496,6 +4995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02093_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4505,6 +5005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02093_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4514,6 +5015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02093_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4523,6 +5025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.4797648615672e-29,
+    "shape": "ellipse",
     "abbr": "R01227_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4532,6 +5035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.4797648615672e-29,
+    "shape": "ellipse",
     "abbr": "R01227_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4541,6 +5045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.4797648615672e-29,
+    "shape": "ellipse",
     "abbr": "R01227_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4550,6 +5055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.4797648615672e-29,
+    "shape": "ellipse",
     "abbr": "R01227_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4559,6 +5065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01228_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4568,6 +5075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01228_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4577,6 +5085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01228_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4586,6 +5095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01228_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4595,6 +5105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00941_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4604,6 +5115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00941_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4613,6 +5125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00941_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4622,6 +5135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00941_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4631,6 +5145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00941_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4640,6 +5155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00941_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4649,6 +5165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "R00941_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4658,6 +5175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00515_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4667,6 +5185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00515_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4676,6 +5195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00515_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4685,6 +5205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00515_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4694,6 +5215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00662_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4703,6 +5225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00662_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4712,6 +5235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00662_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4721,6 +5245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00662_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4730,6 +5255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00964_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4739,6 +5265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00964_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4748,6 +5275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00964_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4757,6 +5285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00964_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4766,6 +5295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.30477389697016e-18,
+    "shape": "ellipse",
     "abbr": "R00967_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4775,6 +5305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.30477389697016e-18,
+    "shape": "ellipse",
     "abbr": "R00967_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4784,6 +5315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.30477389697016e-18,
+    "shape": "ellipse",
     "abbr": "R00967_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4793,6 +5325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.30477389697016e-18,
+    "shape": "ellipse",
     "abbr": "R00967_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4802,6 +5335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00968_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4811,6 +5345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00968_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4820,6 +5355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00968_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4829,6 +5365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00968_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4838,6 +5375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01549_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4847,6 +5385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01549_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4856,6 +5395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01549_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4865,6 +5405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01549_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4874,6 +5415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01880_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4883,6 +5425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01880_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4892,6 +5435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01880_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4901,6 +5445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R01880_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4910,6 +5455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02097_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4919,6 +5465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02097_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4928,6 +5475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02097_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4937,6 +5485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02097_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4946,6 +5495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02327_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4955,6 +5505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02327_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4964,6 +5515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02327_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4973,6 +5525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02327_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4982,6 +5535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02332_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -4991,6 +5545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02332_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5000,6 +5555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02332_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5009,6 +5565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R02332_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5018,6 +5575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00936_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5027,6 +5585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00936_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5036,6 +5595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00936_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5045,6 +5605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00936_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5054,6 +5615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00936_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5063,6 +5625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00939_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5072,6 +5635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00939_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5081,6 +5645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00939_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5090,6 +5655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00939_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5099,6 +5665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "R00939_c",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -5108,6 +5675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0823,
+    "shape": "ellipse",
     "abbr": "Ext1",
     "pathway": null
 }, {
@@ -5117,6 +5685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.222188006114598,
+    "shape": "ellipse",
     "abbr": "Ext2",
     "pathway": null
 }, {
@@ -5126,6 +5695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "Ext9",
     "pathway": null
 }, {
@@ -5135,6 +5705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext10",
     "pathway": null
 }, {
@@ -5144,6 +5715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.165883886388042,
+    "shape": "ellipse",
     "abbr": "Ext14",
     "pathway": null
 }, {
@@ -5153,6 +5725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.79743298542394e-06,
+    "shape": "ellipse",
     "abbr": "Ext15",
     "pathway": null
 }, {
@@ -5162,6 +5735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext16",
     "pathway": null
 }, {
@@ -5171,6 +5745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.157157525791671,
+    "shape": "ellipse",
     "abbr": "Ext19",
     "pathway": null
 }, {
@@ -5180,6 +5755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.157157525791671,
+    "shape": "ellipse",
     "abbr": "Ext20",
     "pathway": null
 }, {
@@ -5189,6 +5765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.153877415101203,
+    "shape": "ellipse",
     "abbr": "Ext21",
     "pathway": null
 }, {
@@ -5198,6 +5775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -6.73270464793532e-05,
+    "shape": "ellipse",
     "abbr": "Ext31",
     "pathway": null
 }, {
@@ -5207,6 +5785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00694085457737939,
+    "shape": "ellipse",
     "abbr": "Ext34",
     "pathway": null
 }, {
@@ -5216,6 +5795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00218008489882487,
+    "shape": "ellipse",
     "abbr": "Ext35",
     "pathway": null
 }, {
@@ -5225,6 +5805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00142422598321708,
+    "shape": "ellipse",
     "abbr": "Ext37",
     "pathway": null
 }, {
@@ -5234,6 +5815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext38",
     "pathway": null
 }, {
@@ -5243,6 +5825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.47955306327603e-29,
+    "shape": "ellipse",
     "abbr": "Ext39",
     "pathway": null
 }, {
@@ -5252,6 +5835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -9.30477389697016e-18,
+    "shape": "ellipse",
     "abbr": "Ext40",
     "pathway": null
 }, {
@@ -5261,6 +5845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0102246184505328,
+    "shape": "ellipse",
     "abbr": "Ext41",
     "pathway": null
 }, {
@@ -5270,6 +5855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00319583584808377,
+    "shape": "rectangle",
     "abbr": "Carbohydrate_syn",
     "pathway": null
 }, {
@@ -5279,6 +5865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00319583584808377,
+    "shape": "triangle",
     "abbr": "Carbohydrate_syn",
     "pathway": null
 }, {
@@ -5288,6 +5875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00319583584808377,
+    "shape": "rectangle",
     "abbr": "Carbohydrate_syn",
     "pathway": null
 }, {
@@ -5297,6 +5885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00319583584808377,
+    "shape": "ellipse",
     "abbr": "Carbohydrate_syn",
     "pathway": null
 }, {
@@ -5306,6 +5895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00319583584808377,
+    "shape": "rectangle",
     "abbr": "Carbohydrate_syn",
     "pathway": null
 }, {
@@ -5315,6 +5905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00319583584808377,
+    "shape": "ellipse",
     "abbr": "Carbohydrate_syn",
     "pathway": null
 }, {
@@ -5324,6 +5915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00319583584808377,
+    "shape": "rectangle",
     "abbr": "Carbohydrate_syn",
     "pathway": null
 }, {
@@ -5333,6 +5925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00319583584808377,
+    "shape": "ellipse",
     "abbr": "Carbohydrate_syn",
     "pathway": null
 }, {
@@ -5342,6 +5935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00319583584808377,
+    "shape": "ellipse",
     "abbr": "Carbohydrate_syn",
     "pathway": null
 }, {
@@ -5351,6 +5945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.59486597084788e-06,
+    "shape": "rectangle",
     "abbr": "Fiber_syn",
     "pathway": null
 }, {
@@ -5360,6 +5955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.59486597084788e-06,
+    "shape": "ellipse",
     "abbr": "Fiber_syn",
     "pathway": null
 }, {
@@ -5369,6 +5965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.59486597084788e-06,
+    "shape": "rectangle",
     "abbr": "Fiber_syn",
     "pathway": null
 }, {
@@ -5378,6 +5975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.59486597084788e-06,
+    "shape": "ellipse",
     "abbr": "Fiber_syn",
     "pathway": null
 }, {
@@ -5387,6 +5985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.59486597084788e-06,
+    "shape": "ellipse",
     "abbr": "Fiber_syn",
     "pathway": null
 }, {
@@ -5396,6 +5995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5405,6 +6005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "ellipse",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5414,6 +6015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5423,6 +6025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5432,6 +6035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5441,6 +6045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5450,6 +6055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5459,6 +6065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5468,6 +6075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5477,6 +6085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "ellipse",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5486,6 +6095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5495,6 +6105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "ellipse",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5504,6 +6115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5513,6 +6125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5522,6 +6135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5531,6 +6145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5540,6 +6155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5549,6 +6165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5558,6 +6175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5567,6 +6185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5576,6 +6195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5585,6 +6205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5594,6 +6215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5603,6 +6225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5612,6 +6235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5621,6 +6245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "ellipse",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5630,6 +6255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5639,6 +6265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "ellipse",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5648,6 +6275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5657,6 +6285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5666,6 +6295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5675,6 +6305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5684,6 +6315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5693,6 +6325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "ellipse",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5702,6 +6335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "rectangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5711,6 +6345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "triangle",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5720,6 +6355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00517900357533485,
+    "shape": "ellipse",
     "abbr": "Protein_syn",
     "pathway": null
 }, {
@@ -5729,6 +6365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "Fat_syn",
     "pathway": null
 }, {
@@ -5738,6 +6375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "ellipse",
     "abbr": "Fat_syn",
     "pathway": null
 }, {
@@ -5747,6 +6385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "rectangle",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5756,6 +6395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "ellipse",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5765,6 +6405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "rectangle",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5774,6 +6415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "ellipse",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5783,6 +6425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "rectangle",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5792,6 +6435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "ellipse",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5801,6 +6445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "rectangle",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5810,6 +6455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "ellipse",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5819,6 +6465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "rectangle",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5828,6 +6475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "ellipse",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5837,6 +6485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "ellipse",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5846,6 +6495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "rectangle",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5855,6 +6505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "ellipse",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5864,6 +6515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "rectangle",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5873,6 +6525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "ellipse",
     "abbr": "BIO_R",
     "pathway": null
 }, {
@@ -5882,6 +6535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0119828865694929,
+    "shape": "ellipse",
     "abbr": "BIO_drain",
     "pathway": null
 }, {
@@ -5891,6 +6545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -4.85372984277376e-17,
+    "shape": "ellipse",
     "abbr": "ATPM",
     "pathway": "ATP maintenance"
 }, {
@@ -5900,6 +6555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -4.85372984277376e-17,
+    "shape": "ellipse",
     "abbr": "ATPM",
     "pathway": "ATP maintenance"
 }, {
@@ -5909,6 +6565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -4.85372984277376e-17,
+    "shape": "ellipse",
     "abbr": "ATPM",
     "pathway": "ATP maintenance"
 }, {
@@ -5918,6 +6575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -4.85372984277376e-17,
+    "shape": "ellipse",
     "abbr": "ATPM",
     "pathway": "ATP maintenance"
 }, {
@@ -5927,6 +6585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -4.85372984277376e-17,
+    "shape": "ellipse",
     "abbr": "ATPM",
     "pathway": "ATP maintenance"
 }, {
@@ -5936,6 +6595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610883544333e-28,
+    "shape": "rectangle",
     "abbr": "R00014_m",
     "pathway": "respiration pathway"
 }, {
@@ -5945,6 +6605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610883544333e-28,
+    "shape": "rectangle",
     "abbr": "R00014_m",
     "pathway": "respiration pathway"
 }, {
@@ -5954,6 +6615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610883544333e-28,
+    "shape": "rectangle",
     "abbr": "R00014_m",
     "pathway": "respiration pathway"
 }, {
@@ -5963,6 +6625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610883544333e-28,
+    "shape": "rectangle",
     "abbr": "R00014_m",
     "pathway": "respiration pathway"
 }, {
@@ -5972,6 +6635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00214_m",
     "pathway": "respiration pathway"
 }, {
@@ -5981,6 +6645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00214_m",
     "pathway": "respiration pathway"
 }, {
@@ -5990,6 +6655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00214_m",
     "pathway": "respiration pathway"
 }, {
@@ -5999,6 +6665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00214_m",
     "pathway": "respiration pathway"
 }, {
@@ -6008,6 +6675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00214_m",
     "pathway": "respiration pathway"
 }, {
@@ -6017,6 +6685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00214_m",
     "pathway": "respiration pathway"
 }, {
@@ -6026,6 +6695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610883544333e-28,
+    "shape": "rectangle",
     "abbr": "R03270_m",
     "pathway": "respiration pathway"
 }, {
@@ -6035,6 +6705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610883544333e-28,
+    "shape": "rectangle",
     "abbr": "R03270_m",
     "pathway": "respiration pathway"
 }, {
@@ -6044,6 +6715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610883544333e-28,
+    "shape": "rectangle",
     "abbr": "R03270_m",
     "pathway": "respiration pathway"
 }, {
@@ -6053,6 +6725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610883544333e-28,
+    "shape": "rectangle",
     "abbr": "R03270_m",
     "pathway": "respiration pathway"
 }, {
@@ -6062,6 +6735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.0610863845149e-28,
+    "shape": "rectangle",
     "abbr": "R02569_m",
     "pathway": "respiration pathway"
 }, {
@@ -6071,6 +6745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.0610863845149e-28,
+    "shape": "rectangle",
     "abbr": "R02569_m",
     "pathway": "respiration pathway"
 }, {
@@ -6080,6 +6755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.0610863845149e-28,
+    "shape": "rectangle",
     "abbr": "R02569_m",
     "pathway": "respiration pathway"
 }, {
@@ -6089,6 +6765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.0610863845149e-28,
+    "shape": "rectangle",
     "abbr": "R02569_m",
     "pathway": "respiration pathway"
 }, {
@@ -6098,6 +6775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00235_m",
     "pathway": "respiration pathway"
 }, {
@@ -6107,6 +6785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00235_m",
     "pathway": "respiration pathway"
 }, {
@@ -6116,6 +6795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00235_m",
     "pathway": "respiration pathway"
 }, {
@@ -6125,6 +6805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00235_m",
     "pathway": "respiration pathway"
 }, {
@@ -6134,6 +6815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00235_m",
     "pathway": "respiration pathway"
 }, {
@@ -6143,6 +6825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00235_m",
     "pathway": "respiration pathway"
 }, {
@@ -6152,6 +6835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.06109726159382e-28,
+    "shape": "rectangle",
     "abbr": "R00351_m",
     "pathway": "respiration pathway"
 }, {
@@ -6161,6 +6845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.06109726159382e-28,
+    "shape": "rectangle",
     "abbr": "R00351_m",
     "pathway": "respiration pathway"
 }, {
@@ -6170,6 +6855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.06109726159382e-28,
+    "shape": "rectangle",
     "abbr": "R00351_m",
     "pathway": "respiration pathway"
 }, {
@@ -6179,6 +6865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.06109726159382e-28,
+    "shape": "rectangle",
     "abbr": "R00351_m",
     "pathway": "respiration pathway"
 }, {
@@ -6188,6 +6875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -1.06109726159382e-28,
+    "shape": "rectangle",
     "abbr": "R00351_m",
     "pathway": "respiration pathway"
 }, {
@@ -6197,6 +6885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00710_m",
     "pathway": "respiration pathway"
 }, {
@@ -6206,6 +6895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00710_m",
     "pathway": "respiration pathway"
 }, {
@@ -6215,6 +6905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00710_m",
     "pathway": "respiration pathway"
 }, {
@@ -6224,6 +6915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00710_m",
     "pathway": "respiration pathway"
 }, {
@@ -6233,6 +6925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00710_m",
     "pathway": "respiration pathway"
 }, {
@@ -6242,6 +6935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00710_m",
     "pathway": "respiration pathway"
 }, {
@@ -6251,6 +6945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00755_m",
     "pathway": "respiration pathway"
 }, {
@@ -6260,6 +6955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00755_m",
     "pathway": "respiration pathway"
 }, {
@@ -6269,6 +6965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00755_m",
     "pathway": "respiration pathway"
 }, {
@@ -6278,6 +6975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.06109175215272e-28,
+    "shape": "rectangle",
     "abbr": "R01325_m",
     "pathway": "respiration pathway"
 }, {
@@ -6287,6 +6985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.06109175215272e-28,
+    "shape": "rectangle",
     "abbr": "R01325_m",
     "pathway": "respiration pathway"
 }, {
@@ -6296,6 +6995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.06109175215272e-28,
+    "shape": "rectangle",
     "abbr": "R01325_m",
     "pathway": "respiration pathway"
 }, {
@@ -6305,6 +7005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.0611041884522e-28,
+    "shape": "rectangle",
     "abbr": "R01900_m",
     "pathway": "respiration pathway"
 }, {
@@ -6314,6 +7015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.0611041884522e-28,
+    "shape": "rectangle",
     "abbr": "R01900_m",
     "pathway": "respiration pathway"
 }, {
@@ -6323,6 +7025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.0611041884522e-28,
+    "shape": "rectangle",
     "abbr": "R01900_m",
     "pathway": "respiration pathway"
 }, {
@@ -6332,6 +7035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0611041362696e-28,
+    "shape": "rectangle",
     "abbr": "R01899_m",
     "pathway": "respiration pathway"
 }, {
@@ -6341,6 +7045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0611041362696e-28,
+    "shape": "rectangle",
     "abbr": "R01899_m",
     "pathway": "respiration pathway"
 }, {
@@ -6350,6 +7055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0611041362696e-28,
+    "shape": "rectangle",
     "abbr": "R01899_m",
     "pathway": "respiration pathway"
 }, {
@@ -6359,6 +7065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0611041362696e-28,
+    "shape": "rectangle",
     "abbr": "R01899_m",
     "pathway": "respiration pathway"
 }, {
@@ -6368,6 +7075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0611041362696e-28,
+    "shape": "rectangle",
     "abbr": "R01899_m",
     "pathway": "respiration pathway"
 }, {
@@ -6377,6 +7085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00709_m",
     "pathway": "respiration pathway"
 }, {
@@ -6386,6 +7095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00709_m",
     "pathway": "respiration pathway"
 }, {
@@ -6395,6 +7105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00709_m",
     "pathway": "respiration pathway"
 }, {
@@ -6404,6 +7115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00709_m",
     "pathway": "respiration pathway"
 }, {
@@ -6413,6 +7125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00709_m",
     "pathway": "respiration pathway"
 }, {
@@ -6422,6 +7135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00709_m",
     "pathway": "respiration pathway"
 }, {
@@ -6431,6 +7145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00268_m",
     "pathway": "respiration pathway"
 }, {
@@ -6440,6 +7155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00268_m",
     "pathway": "respiration pathway"
 }, {
@@ -6449,6 +7165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00268_m",
     "pathway": "respiration pathway"
 }, {
@@ -6458,6 +7175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00621_m",
     "pathway": "respiration pathway"
 }, {
@@ -6467,6 +7185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00621_m",
     "pathway": "respiration pathway"
 }, {
@@ -6476,6 +7195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00621_m",
     "pathway": "respiration pathway"
 }, {
@@ -6485,6 +7205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00621_m",
     "pathway": "respiration pathway"
 }, {
@@ -6494,6 +7215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R03316_m",
     "pathway": "respiration pathway"
 }, {
@@ -6503,6 +7225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R03316_m",
     "pathway": "respiration pathway"
 }, {
@@ -6512,6 +7235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R03316_m",
     "pathway": "respiration pathway"
 }, {
@@ -6521,6 +7245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R03316_m",
     "pathway": "respiration pathway"
 }, {
@@ -6530,6 +7255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610813941954e-28,
+    "shape": "rectangle",
     "abbr": "R08550_m",
     "pathway": "respiration pathway"
 }, {
@@ -6539,6 +7265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610813941954e-28,
+    "shape": "rectangle",
     "abbr": "R08550_m",
     "pathway": "respiration pathway"
 }, {
@@ -6548,6 +7275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610813941954e-28,
+    "shape": "rectangle",
     "abbr": "R08550_m",
     "pathway": "respiration pathway"
 }, {
@@ -6557,6 +7285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610813941954e-28,
+    "shape": "rectangle",
     "abbr": "R08550_m",
     "pathway": "respiration pathway"
 }, {
@@ -6566,6 +7295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.0610813941954e-28,
+    "shape": "rectangle",
     "abbr": "R08550_m",
     "pathway": "respiration pathway"
 }, {
@@ -6575,6 +7305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R02570_m",
     "pathway": "respiration pathway"
 }, {
@@ -6584,6 +7315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R02570_m",
     "pathway": "respiration pathway"
 }, {
@@ -6593,6 +7325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R02570_m",
     "pathway": "respiration pathway"
 }, {
@@ -6602,6 +7335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R02570_m",
     "pathway": "respiration pathway"
 }, {
@@ -6611,6 +7345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00405_m",
     "pathway": "respiration pathway"
 }, {
@@ -6620,6 +7355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00405_m",
     "pathway": "respiration pathway"
 }, {
@@ -6629,6 +7365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00405_m",
     "pathway": "respiration pathway"
 }, {
@@ -6638,6 +7375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00405_m",
     "pathway": "respiration pathway"
 }, {
@@ -6647,6 +7385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00405_m",
     "pathway": "respiration pathway"
 }, {
@@ -6656,6 +7395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00405_m",
     "pathway": "respiration pathway"
 }, {
@@ -6665,6 +7405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00432_m",
     "pathway": "respiration pathway"
 }, {
@@ -6674,6 +7415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00432_m",
     "pathway": "respiration pathway"
 }, {
@@ -6683,6 +7425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00432_m",
     "pathway": "respiration pathway"
 }, {
@@ -6692,6 +7435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00432_m",
     "pathway": "respiration pathway"
 }, {
@@ -6701,6 +7445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00432_m",
     "pathway": "respiration pathway"
 }, {
@@ -6710,6 +7455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00432_m",
     "pathway": "respiration pathway"
 }, {
@@ -6719,6 +7465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R02164_m",
     "pathway": "respiration pathway"
 }, {
@@ -6728,6 +7475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R02164_m",
     "pathway": "respiration pathway"
 }, {
@@ -6737,6 +7485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R02164_m",
     "pathway": "respiration pathway"
 }, {
@@ -6746,6 +7495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R02164_m",
     "pathway": "respiration pathway"
 }, {
@@ -6755,6 +7505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00412_m",
     "pathway": "respiration pathway"
 }, {
@@ -6764,6 +7515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00412_m",
     "pathway": "respiration pathway"
 }, {
@@ -6773,6 +7525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00412_m",
     "pathway": "respiration pathway"
 }, {
@@ -6782,6 +7535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00412_m",
     "pathway": "respiration pathway"
 }, {
@@ -6791,6 +7545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "R01082_m",
     "pathway": "respiration pathway"
 }, {
@@ -6800,6 +7555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "R01082_m",
     "pathway": "respiration pathway"
 }, {
@@ -6809,6 +7565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "R01082_m",
     "pathway": "respiration pathway"
 }, {
@@ -6818,6 +7575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "R00342_m",
     "pathway": "respiration pathway"
 }, {
@@ -6827,6 +7585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "R00342_m",
     "pathway": "respiration pathway"
 }, {
@@ -6836,6 +7595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "R00342_m",
     "pathway": "respiration pathway"
 }, {
@@ -6845,6 +7605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "R00342_m",
     "pathway": "respiration pathway"
 }, {
@@ -6854,6 +7615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "R00342_m",
     "pathway": "respiration pathway"
 }, {
@@ -6863,6 +7625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00352_m",
     "pathway": "respiration pathway"
 }, {
@@ -6872,6 +7635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00352_m",
     "pathway": "respiration pathway"
 }, {
@@ -6881,6 +7645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00352_m",
     "pathway": "respiration pathway"
 }, {
@@ -6890,6 +7655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00352_m",
     "pathway": "respiration pathway"
 }, {
@@ -6899,6 +7665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00352_m",
     "pathway": "respiration pathway"
 }, {
@@ -6908,6 +7675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00352_m",
     "pathway": "respiration pathway"
 }, {
@@ -6917,6 +7685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00352_m",
     "pathway": "respiration pathway"
 }, {
@@ -6926,6 +7695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R03415_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -6935,6 +7705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R03415_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -6944,6 +7715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R03415_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -6953,6 +7725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R03415_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -6962,6 +7735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R03415_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -6971,6 +7745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R03415_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -6980,6 +7755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00258_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -6989,6 +7765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00258_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -6998,6 +7775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00258_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7007,6 +7785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00258_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7016,6 +7795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R07460_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7025,6 +7805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R07460_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7034,6 +7815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R07460_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7043,6 +7825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R07460_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7052,6 +7835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00253_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7061,6 +7845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00253_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7070,6 +7855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00253_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7079,6 +7865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00253_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7088,6 +7875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00253_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7097,6 +7885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00253_m",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -7106,6 +7895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00573_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7115,6 +7905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00573_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7124,6 +7915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00573_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7133,6 +7925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00573_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7142,6 +7935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00573_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7151,6 +7945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00573_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7160,6 +7955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00573_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7169,6 +7965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00573_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7178,6 +7975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00571_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7187,6 +7985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00571_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7196,6 +7995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00571_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7205,6 +8005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00571_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7214,6 +8015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00571_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7223,6 +8025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00571_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7232,6 +8035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00158_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7241,6 +8045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00158_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7250,6 +8055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00158_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7259,6 +8065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00158_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7268,6 +8075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00512_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7277,6 +8085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00512_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7286,6 +8095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00512_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7295,6 +8105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00512_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7304,6 +8115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00157_m",
     "pathway": "not identify"
 }, {
@@ -7313,6 +8125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00157_m",
     "pathway": "not identify"
 }, {
@@ -7322,6 +8135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00157_m",
     "pathway": "not identify"
 }, {
@@ -7331,6 +8145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00157_m",
     "pathway": "not identify"
 }, {
@@ -7340,6 +8155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00662_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7349,6 +8165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00662_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7358,6 +8175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00662_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7367,6 +8185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00662_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7376,6 +8195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.155878136137592,
+    "shape": "rectangle",
     "abbr": "R00515_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7385,6 +8205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.155878136137592,
+    "shape": "rectangle",
     "abbr": "R00515_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7394,6 +8215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.155878136137592,
+    "shape": "rectangle",
     "abbr": "R00515_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7403,6 +8225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.155878136137592,
+    "shape": "rectangle",
     "abbr": "R00515_m",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -7412,6 +8235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext48",
     "pathway": null
 }, {
@@ -7421,6 +8245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext49",
     "pathway": null
 }, {
@@ -7430,6 +8255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext50",
     "pathway": null
 }, {
@@ -7439,6 +8265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext51",
     "pathway": null
 }, {
@@ -7448,6 +8275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R03321_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7457,6 +8285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R03321_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7466,6 +8295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744914721733165,
+    "shape": "triangle",
     "abbr": "R02740_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7475,6 +8305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744914721733165,
+    "shape": "triangle",
     "abbr": "R02740_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7484,6 +8315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01600_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7493,6 +8325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01600_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7502,6 +8335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01600_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7511,6 +8345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01600_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7520,6 +8355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02739_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7529,6 +8365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02739_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7538,6 +8375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744914721733165,
+    "shape": "triangle",
     "abbr": "R08639_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7547,6 +8385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744914721733165,
+    "shape": "triangle",
     "abbr": "R08639_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7556,6 +8395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "R00948_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7565,6 +8405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "R00948_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7574,6 +8415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "R00948_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7583,6 +8425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "R00948_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7592,6 +8435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "R06049_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7601,6 +8445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "R06049_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7610,6 +8455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "R06049_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7619,6 +8465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "R06049_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7628,6 +8475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "R06186_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7637,6 +8485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "R06186_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7646,6 +8495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R09086_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7655,6 +8505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R09086_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7664,6 +8515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R09086_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7673,6 +8525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R09086_p",
     "pathway": "sucrose/starch metabolism pathway"
 }, {
@@ -7682,6 +8535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01830_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7691,6 +8545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01830_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7700,6 +8555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01830_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7709,6 +8565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01830_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7718,6 +8575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0031112766118584,
+    "shape": "triangle",
     "abbr": "R01529_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7727,6 +8585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0031112766118584,
+    "shape": "triangle",
     "abbr": "R01529_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7736,6 +8595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01641_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7745,6 +8605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01641_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7754,6 +8615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01641_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7763,6 +8625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01641_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7772,6 +8635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000248592171616073,
+    "shape": "triangle",
     "abbr": "R01049_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7781,6 +8645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000248592171616073,
+    "shape": "triangle",
     "abbr": "R01049_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7790,6 +8655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000248592171616073,
+    "shape": "triangle",
     "abbr": "R01049_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7799,6 +8665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000248592171616073,
+    "shape": "triangle",
     "abbr": "R01049_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7808,6 +8675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00187155752402462,
+    "shape": "triangle",
     "abbr": "R01056_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7817,6 +8685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00187155752402462,
+    "shape": "triangle",
     "abbr": "R01056_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7826,6 +8695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01845_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7835,6 +8705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01845_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7844,6 +8715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01845_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7853,6 +8725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01845_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7862,6 +8735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01829_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7871,6 +8745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01829_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7880,6 +8755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01829_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7889,6 +8765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -3.47492854335521e-30,
+    "shape": "triangle",
     "abbr": "R01827_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7898,6 +8775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -3.47492854335521e-30,
+    "shape": "triangle",
     "abbr": "R01827_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7907,6 +8785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -3.47492854335521e-30,
+    "shape": "triangle",
     "abbr": "R01827_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7916,6 +8795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": -3.47492854335521e-30,
+    "shape": "triangle",
     "abbr": "R01827_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7925,6 +8805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R02736_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7934,6 +8815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R02736_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7943,6 +8825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R02736_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7952,6 +8835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R02736_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7961,6 +8845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R02736_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7970,6 +8855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R02035_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7979,6 +8865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R02035_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7988,6 +8875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R02035_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -7997,6 +8885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R01528_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -8006,6 +8895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R01528_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -8015,6 +8905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R01528_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -8024,6 +8915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R01528_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -8033,6 +8925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R01528_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -8042,6 +8935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "R01528_p",
     "pathway": "pentose phosphate pathway"
 }, {
@@ -8051,6 +8945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00141386797606641,
+    "shape": "triangle",
     "abbr": "R00014_p",
     "pathway": "respiration pathway"
 }, {
@@ -8060,6 +8955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00141386797606641,
+    "shape": "triangle",
     "abbr": "R00014_p",
     "pathway": "respiration pathway"
 }, {
@@ -8069,6 +8965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00141386797606641,
+    "shape": "triangle",
     "abbr": "R00014_p",
     "pathway": "respiration pathway"
 }, {
@@ -8078,6 +8975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00141386797606641,
+    "shape": "triangle",
     "abbr": "R00014_p",
     "pathway": "respiration pathway"
 }, {
@@ -8087,6 +8985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.158195263740067,
+    "shape": "triangle",
     "abbr": "R00200_p",
     "pathway": "respiration pathway/nucleotide biosynthesis pathway"
 }, {
@@ -8096,6 +8995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.158195263740067,
+    "shape": "triangle",
     "abbr": "R00200_p",
     "pathway": "respiration pathway/nucleotide biosynthesis pathway"
 }, {
@@ -8105,6 +9005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.158195263740067,
+    "shape": "triangle",
     "abbr": "R00200_p",
     "pathway": "respiration pathway/nucleotide biosynthesis pathway"
 }, {
@@ -8114,6 +9015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.158195263740067,
+    "shape": "triangle",
     "abbr": "R00200_p",
     "pathway": "respiration pathway/nucleotide biosynthesis pathway"
 }, {
@@ -8123,6 +9025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00430_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8132,6 +9035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00430_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8141,6 +9045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00430_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8150,6 +9055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00430_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8159,6 +9065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01138_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8168,6 +9075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01138_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8177,6 +9085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01138_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8186,6 +9095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01138_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8195,6 +9105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01858_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8204,6 +9115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01858_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8213,6 +9125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01858_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8222,6 +9135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01858_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -8231,6 +9145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0744914721733165,
+    "shape": "triangle",
     "abbr": "R02073_p",
     "pathway": "respiration pathway"
 }, {
@@ -8240,6 +9155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0744914721733165,
+    "shape": "triangle",
     "abbr": "R02073_p",
     "pathway": "respiration pathway"
 }, {
@@ -8249,6 +9165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0744914721733165,
+    "shape": "triangle",
     "abbr": "R02073_p",
     "pathway": "respiration pathway"
 }, {
@@ -8258,6 +9175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0744914721733165,
+    "shape": "triangle",
     "abbr": "R02073_p",
     "pathway": "respiration pathway"
 }, {
@@ -8267,6 +9185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R04779_p",
     "pathway": "respiration pathway"
 }, {
@@ -8276,6 +9195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R04779_p",
     "pathway": "respiration pathway"
 }, {
@@ -8285,6 +9205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R04779_p",
     "pathway": "respiration pathway"
 }, {
@@ -8294,6 +9215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R04779_p",
     "pathway": "respiration pathway"
 }, {
@@ -8303,6 +9225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.157157525791671,
+    "shape": "triangle",
     "abbr": "R01070_p",
     "pathway": "respiration pathway/pentose phosphate pathway"
 }, {
@@ -8312,6 +9235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.157157525791671,
+    "shape": "triangle",
     "abbr": "R01070_p",
     "pathway": "respiration pathway/pentose phosphate pathway"
 }, {
@@ -8321,6 +9245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.157157525791671,
+    "shape": "triangle",
     "abbr": "R01070_p",
     "pathway": "respiration pathway/pentose phosphate pathway"
 }, {
@@ -8330,6 +9255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01015_p",
     "pathway": "respiration pathway"
 }, {
@@ -8339,6 +9265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01015_p",
     "pathway": "respiration pathway"
 }, {
@@ -8348,6 +9275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00636742552348287,
+    "shape": "triangle",
     "abbr": "R01061_p",
     "pathway": "respiration pathway"
 }, {
@@ -8357,6 +9285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00636742552348287,
+    "shape": "triangle",
     "abbr": "R01061_p",
     "pathway": "respiration pathway"
 }, {
@@ -8366,6 +9295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00636742552348287,
+    "shape": "triangle",
     "abbr": "R01061_p",
     "pathway": "respiration pathway"
 }, {
@@ -8375,6 +9305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00636742552348287,
+    "shape": "triangle",
     "abbr": "R01061_p",
     "pathway": "respiration pathway"
 }, {
@@ -8384,6 +9315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00636742552348287,
+    "shape": "triangle",
     "abbr": "R01061_p",
     "pathway": "respiration pathway"
 }, {
@@ -8393,6 +9325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00636742552348287,
+    "shape": "triangle",
     "abbr": "R01061_p",
     "pathway": "respiration pathway"
 }, {
@@ -8402,6 +9335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.158345454843751,
+    "shape": "triangle",
     "abbr": "R01512_p",
     "pathway": "respiration pathway"
 }, {
@@ -8411,6 +9345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.158345454843751,
+    "shape": "triangle",
     "abbr": "R01512_p",
     "pathway": "respiration pathway"
 }, {
@@ -8420,6 +9355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.158345454843751,
+    "shape": "triangle",
     "abbr": "R01512_p",
     "pathway": "respiration pathway"
 }, {
@@ -8429,6 +9365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.158345454843751,
+    "shape": "triangle",
     "abbr": "R01512_p",
     "pathway": "respiration pathway"
 }, {
@@ -8438,6 +9375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.158464571925984,
+    "shape": "triangle",
     "abbr": "R01518_p",
     "pathway": "respiration pathway"
 }, {
@@ -8447,6 +9385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.158464571925984,
+    "shape": "triangle",
     "abbr": "R01518_p",
     "pathway": "respiration pathway"
 }, {
@@ -8456,6 +9395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.158464571925984,
+    "shape": "triangle",
     "abbr": "R00658_p",
     "pathway": "respiration pathway"
 }, {
@@ -8465,6 +9405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.158464571925984,
+    "shape": "triangle",
     "abbr": "R00658_p",
     "pathway": "respiration pathway"
 }, {
@@ -8474,6 +9415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.158464571925984,
+    "shape": "triangle",
     "abbr": "R00658_p",
     "pathway": "respiration pathway"
 }, {
@@ -8483,6 +9425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00199_p",
     "pathway": "respiration pathway"
 }, {
@@ -8492,6 +9435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00199_p",
     "pathway": "respiration pathway"
 }, {
@@ -8501,6 +9445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00199_p",
     "pathway": "respiration pathway"
 }, {
@@ -8510,6 +9455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00199_p",
     "pathway": "respiration pathway"
 }, {
@@ -8519,6 +9465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00199_p",
     "pathway": "respiration pathway"
 }, {
@@ -8528,6 +9475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00199_p",
     "pathway": "respiration pathway"
 }, {
@@ -8537,6 +9485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0023397448794768,
+    "shape": "triangle",
     "abbr": "PMJ00002_p",
     "pathway": "respiration pathway"
 }, {
@@ -8546,6 +9495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0023397448794768,
+    "shape": "triangle",
     "abbr": "PMJ00002_p",
     "pathway": "respiration pathway"
 }, {
@@ -8555,6 +9505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0023397448794768,
+    "shape": "triangle",
     "abbr": "PMJ00002_p",
     "pathway": "respiration pathway"
 }, {
@@ -8564,6 +9515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0023397448794768,
+    "shape": "triangle",
     "abbr": "PMJ00002_p",
     "pathway": "respiration pathway"
 }, {
@@ -8573,6 +9525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0023397448794768,
+    "shape": "triangle",
     "abbr": "PMJ00002_p",
     "pathway": "respiration pathway"
 }, {
@@ -8582,6 +9535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0023397448794768,
+    "shape": "triangle",
     "abbr": "PMJ00002_p",
     "pathway": "respiration pathway"
 }, {
@@ -8591,6 +9545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.0023397448794768,
+    "shape": "triangle",
     "abbr": "PMJ00002_p",
     "pathway": "respiration pathway"
 }, {
@@ -8600,6 +9555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R03270_p",
     "pathway": "respiration pathway"
 }, {
@@ -8609,6 +9565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R03270_p",
     "pathway": "respiration pathway"
 }, {
@@ -8618,6 +9575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R03270_p",
     "pathway": "respiration pathway"
 }, {
@@ -8627,6 +9585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R03270_p",
     "pathway": "respiration pathway"
 }, {
@@ -8636,6 +9595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R08550_p",
     "pathway": "respiration pathway"
 }, {
@@ -8645,6 +9605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R08550_p",
     "pathway": "respiration pathway"
 }, {
@@ -8654,6 +9615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R08550_p",
     "pathway": "respiration pathway"
 }, {
@@ -8663,6 +9625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R08550_p",
     "pathway": "respiration pathway"
 }, {
@@ -8672,6 +9635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R08550_p",
     "pathway": "respiration pathway"
 }, {
@@ -8681,6 +9645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02569_p",
     "pathway": "respiration pathway"
 }, {
@@ -8690,6 +9655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02569_p",
     "pathway": "respiration pathway"
 }, {
@@ -8699,6 +9665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02569_p",
     "pathway": "respiration pathway"
 }, {
@@ -8708,6 +9675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02569_p",
     "pathway": "respiration pathway"
 }, {
@@ -8717,6 +9685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07641_p",
     "pathway": "respiration pathway"
 }, {
@@ -8726,6 +9695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07641_p",
     "pathway": "respiration pathway"
 }, {
@@ -8735,6 +9705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07641_p",
     "pathway": "respiration pathway"
 }, {
@@ -8744,6 +9715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07641_p",
     "pathway": "respiration pathway"
 }, {
@@ -8753,6 +9725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07641_p",
     "pathway": "respiration pathway"
 }, {
@@ -8762,6 +9735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07641_p",
     "pathway": "respiration pathway"
 }, {
@@ -8771,6 +9745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07641_p",
     "pathway": "respiration pathway"
 }, {
@@ -8780,6 +9755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04385_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8789,6 +9765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04385_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8798,6 +9775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04385_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8807,6 +9785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04385_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8816,6 +9795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04385_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8825,6 +9805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04385_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8834,6 +9815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00742_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8843,6 +9825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00742_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8852,6 +9835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00742_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8861,6 +9845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00742_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8870,6 +9855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00742_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8879,6 +9865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00742_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8888,6 +9875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00742_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8897,6 +9885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04386_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8906,6 +9895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04386_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8915,6 +9905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04386_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8924,6 +9915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04386_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8933,6 +9925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R04386_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8942,6 +9935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R01624_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8951,6 +9945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R01624_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8960,6 +9955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R01624_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8969,6 +9965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R01624_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8978,6 +9975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R01626_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8987,6 +9985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R01626_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -8996,6 +9995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R01626_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9005,6 +10005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00147629162536153,
+    "shape": "triangle",
     "abbr": "R01626_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9014,6 +10015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04355_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9023,6 +10025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04355_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9032,6 +10035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04355_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9041,6 +10045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04355_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9050,6 +10055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04355_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9059,6 +10065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04533_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9068,6 +10075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04533_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9077,6 +10085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04533_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9086,6 +10095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04533_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9095,6 +10105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04533_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9104,6 +10115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04428_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9113,6 +10125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04428_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9122,6 +10135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04428_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9131,6 +10145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04429_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9140,6 +10155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04429_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9149,6 +10165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04429_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9158,6 +10175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04429_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9167,6 +10185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04429_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9176,6 +10195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04952_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9185,6 +10205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04952_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9194,6 +10215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04952_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9203,6 +10225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04952_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9212,6 +10235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04952_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9221,6 +10245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04953_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9230,6 +10255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04953_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9239,6 +10265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04953_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9248,6 +10275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04953_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9257,6 +10285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04953_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9266,6 +10295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04954_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9275,6 +10305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04954_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9284,6 +10315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04954_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9293,6 +10325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04955_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9302,6 +10335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04955_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9311,6 +10345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04955_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9320,6 +10355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04955_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9329,6 +10365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04955_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9338,6 +10375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04957_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9347,6 +10385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04957_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9356,6 +10395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04957_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9365,6 +10405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04957_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9374,6 +10415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04957_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9383,6 +10425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04536_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9392,6 +10435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04536_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9401,6 +10445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04536_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9410,6 +10455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04536_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9419,6 +10465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04536_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9428,6 +10475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04537_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9437,6 +10485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04537_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9446,6 +10495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04537_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9455,6 +10505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04958_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9464,6 +10515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04958_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9473,6 +10525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04958_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9482,6 +10535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04958_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9491,6 +10545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04958_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9500,6 +10555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04960_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9509,6 +10565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04960_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9518,6 +10575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04960_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9527,6 +10585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04960_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9536,6 +10595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04960_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9545,6 +10605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04534_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9554,6 +10615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04534_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9563,6 +10625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04534_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9572,6 +10635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04534_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9581,6 +10645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04534_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9590,6 +10655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04535_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9599,6 +10665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04535_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9608,6 +10675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04535_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9617,6 +10685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04961_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9626,6 +10695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04961_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9635,6 +10705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04961_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9644,6 +10715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04961_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9653,6 +10725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04961_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9662,6 +10735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04963_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9671,6 +10745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04963_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9680,6 +10755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04963_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9689,6 +10765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04963_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9698,6 +10775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04963_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9707,6 +10785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04964_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9716,6 +10795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04964_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9725,6 +10805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04964_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9734,6 +10815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04964_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9743,6 +10825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04964_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9752,6 +10835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04965_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9761,6 +10845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04965_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9770,6 +10855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04965_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9779,6 +10865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04724_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9788,6 +10875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04724_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9797,6 +10885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04724_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9806,6 +10895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04724_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9815,6 +10905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04724_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9824,6 +10915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04726_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9833,6 +10925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04726_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9842,6 +10935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04726_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9851,6 +10945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04726_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9860,6 +10955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04726_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9869,6 +10965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R04014_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9878,6 +10975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R04014_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9887,6 +10985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R04014_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9896,6 +10995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R04014_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9905,6 +11005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04566_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9914,6 +11015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04566_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9923,6 +11025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04566_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9932,6 +11035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04566_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9941,6 +11045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04566_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9950,6 +11055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04568_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9959,6 +11065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04568_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9968,6 +11075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04568_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9977,6 +11085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04966_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9986,6 +11095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04966_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -9995,6 +11105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04966_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10004,6 +11115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04966_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10013,6 +11125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04966_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10022,6 +11135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04968_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10031,6 +11145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04968_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10040,6 +11155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04968_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10049,6 +11165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04968_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10058,6 +11175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04968_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10067,6 +11185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04543_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10076,6 +11195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04543_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10085,6 +11205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04543_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10094,6 +11215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04543_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10103,6 +11225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04543_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10112,6 +11235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04544_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10121,6 +11245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04544_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10130,6 +11255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04544_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10139,6 +11265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04969_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10148,6 +11275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04969_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10157,6 +11285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04969_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10166,6 +11295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04969_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10175,6 +11305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R04969_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10184,6 +11315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R01706_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10193,6 +11325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R01706_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10202,6 +11335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R01706_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10211,6 +11345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000210898803623076,
+    "shape": "triangle",
     "abbr": "R01706_p",
     "pathway": "fatty acid biosynthesis pathway"
 }, {
@@ -10220,6 +11355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R01513_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10229,6 +11365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R01513_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10238,6 +11375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R01513_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10247,6 +11385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R01513_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10256,6 +11395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R01513_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10265,6 +11405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R04173_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10274,6 +11415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R04173_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10283,6 +11425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R04173_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10292,6 +11435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R04173_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10301,6 +11445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07274_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10310,6 +11455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07274_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10319,6 +11465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07274_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10328,6 +11475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R07274_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10337,6 +11485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R00582_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10346,6 +11495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R00582_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10355,6 +11505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R00582_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10364,6 +11515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000212339146588729,
+    "shape": "triangle",
     "abbr": "R00582_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10373,6 +11525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00586_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10382,6 +11535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00586_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10391,6 +11545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00586_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10400,6 +11555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00586_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10409,6 +11565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00897_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10418,6 +11575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00897_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10427,6 +11585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00897_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10436,6 +11595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00897_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10445,6 +11605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00891_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10454,6 +11615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00891_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10463,6 +11625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00891_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10472,6 +11635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00891_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10481,6 +11645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00945_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10490,6 +11655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00945_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10499,6 +11665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00945_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10508,6 +11675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00945_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10517,6 +11685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00945_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10526,6 +11695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000108759075082032,
+    "shape": "triangle",
     "abbr": "R00782_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10535,6 +11705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000108759075082032,
+    "shape": "triangle",
     "abbr": "R00782_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10544,6 +11715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000108759075082032,
+    "shape": "triangle",
     "abbr": "R00782_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10553,6 +11725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000108759075082032,
+    "shape": "triangle",
     "abbr": "R00782_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10562,6 +11735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000108759075082032,
+    "shape": "triangle",
     "abbr": "R00782_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10571,6 +11745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04672_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10580,6 +11755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04672_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10589,6 +11765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04672_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10598,6 +11775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04672_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10607,6 +11785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R05071_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10616,6 +11795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R05071_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10625,6 +11805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04440_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10634,6 +11815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04440_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10643,6 +11825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04440_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10652,6 +11835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04440_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10661,6 +11845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04440_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10670,6 +11855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04441_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10679,6 +11865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04441_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10688,6 +11875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00131546690813505,
+    "shape": "triangle",
     "abbr": "R04441_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10697,6 +11885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000165728114410715,
+    "shape": "triangle",
     "abbr": "R01214_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10706,6 +11895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000165728114410715,
+    "shape": "triangle",
     "abbr": "R01214_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10715,6 +11905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000165728114410715,
+    "shape": "triangle",
     "abbr": "R01214_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10724,6 +11915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000165728114410715,
+    "shape": "triangle",
     "abbr": "R01214_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10733,6 +11925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R01213_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10742,6 +11935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R01213_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10751,6 +11945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R01213_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10760,6 +11955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R01213_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10769,6 +11965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R01213_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10778,6 +11975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R03968_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10787,6 +11985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R03968_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10796,6 +11995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R03968_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10805,6 +12005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R04001_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10814,6 +12015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R04001_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10823,6 +12025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R04001_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10832,6 +12035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R04426_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10841,6 +12045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R04426_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10850,6 +12055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R04426_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10859,6 +12065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R04426_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10868,6 +12075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R04426_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10877,6 +12085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00114973879372434,
+    "shape": "triangle",
     "abbr": "spontanous1",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10886,6 +12095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00114973879372434,
+    "shape": "triangle",
     "abbr": "spontanous1",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10895,6 +12105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00114973879372434,
+    "shape": "triangle",
     "abbr": "spontanous1",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10904,6 +12115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R01090_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10913,6 +12125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R01090_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10922,6 +12135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R01090_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10931,6 +12145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00114973879372434,
+    "shape": "triangle",
     "abbr": "R01090_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10940,6 +12155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R04673_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10949,6 +12165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R04673_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10958,6 +12175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R04673_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10967,6 +12185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R04673_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10976,6 +12195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R05069_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10985,6 +12205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R05069_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -10994,6 +12215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R05068_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11003,6 +12225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R05068_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11012,6 +12235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R05068_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11021,6 +12245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R05068_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11030,6 +12255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R05068_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11039,6 +12265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R05070_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11048,6 +12275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R05070_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11057,6 +12285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R05070_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11066,6 +12295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R02199_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11075,6 +12305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R02199_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11084,6 +12315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R02199_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11093,6 +12325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R02199_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11102,6 +12335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00355_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11111,6 +12345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00355_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11120,6 +12355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00355_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11129,6 +12365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00355_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11138,6 +12375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00746393393848821,
+    "shape": "triangle",
     "abbr": "R00480_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11147,6 +12385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00746393393848821,
+    "shape": "triangle",
     "abbr": "R00480_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11156,6 +12395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00746393393848821,
+    "shape": "triangle",
     "abbr": "R00480_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11165,6 +12405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00746393393848821,
+    "shape": "triangle",
     "abbr": "R00480_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11174,6 +12415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00746393393848821,
+    "shape": "triangle",
     "abbr": "R02291_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11183,6 +12425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00746393393848821,
+    "shape": "triangle",
     "abbr": "R02291_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11192,6 +12435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00746393393848821,
+    "shape": "triangle",
     "abbr": "R02291_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11201,6 +12445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00746393393848821,
+    "shape": "triangle",
     "abbr": "R02291_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11210,6 +12455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00746393393848821,
+    "shape": "triangle",
     "abbr": "R02291_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11219,6 +12465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00746393393848821,
+    "shape": "triangle",
     "abbr": "R02291_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11228,6 +12475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R02292_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11237,6 +12485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R02292_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11246,6 +12495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R02292_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11255,6 +12505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000227876157314733,
+    "shape": "rectangle",
     "abbr": "R02292_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11264,6 +12515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R02292_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11273,6 +12525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R04198_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11282,6 +12535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R04198_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11291,6 +12545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R04198_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11300,6 +12555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R04198_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11309,6 +12565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R04198_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11318,6 +12575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R07613_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11327,6 +12585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R07613_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11336,6 +12595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R07613_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11345,6 +12605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R07613_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11354,6 +12615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R07613_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11363,6 +12625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R02735_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11372,6 +12635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R02735_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11381,6 +12645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R00451_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11390,6 +12655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R00451_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11399,6 +12665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000227876157314733,
+    "shape": "triangle",
     "abbr": "R00451_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11408,6 +12675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00723605778117347,
+    "shape": "triangle",
     "abbr": "R01773_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11417,6 +12685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00723605778117347,
+    "shape": "triangle",
     "abbr": "R01773_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11426,6 +12695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00723605778117347,
+    "shape": "triangle",
     "abbr": "R01773_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11435,6 +12705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00723605778117347,
+    "shape": "triangle",
     "abbr": "R01773_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11444,6 +12715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00723605778117347,
+    "shape": "triangle",
     "abbr": "R01773_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11453,6 +12725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00723605778117348,
+    "shape": "triangle",
     "abbr": "R01771_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11462,6 +12735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00723605778117348,
+    "shape": "triangle",
     "abbr": "R01771_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11471,6 +12745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00723605778117348,
+    "shape": "triangle",
     "abbr": "R01771_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11480,6 +12755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00723605778117348,
+    "shape": "triangle",
     "abbr": "R01771_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11489,6 +12765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00714801472039278,
+    "shape": "triangle",
     "abbr": "R01466_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11498,6 +12775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00714801472039278,
+    "shape": "triangle",
     "abbr": "R01466_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11507,6 +12785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00714801472039278,
+    "shape": "triangle",
     "abbr": "R01466_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11516,6 +12795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00714801472039278,
+    "shape": "triangle",
     "abbr": "R01466_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11525,6 +12805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R00996_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11534,6 +12815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R00996_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11543,6 +12825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 9.84010679313622e-05,
+    "shape": "triangle",
     "abbr": "R00996_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11552,6 +12835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "PMJ00001_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11561,6 +12845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "PMJ00001_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11570,6 +12855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "PMJ00001_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11579,6 +12865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "PMJ00001_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11588,6 +12875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "R01286_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11597,6 +12885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "R01286_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11606,6 +12895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "R01286_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11615,6 +12905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "R01286_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11624,6 +12915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "R01286_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11633,6 +12925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00650_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11642,6 +12935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00650_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11651,6 +12945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00650_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11660,6 +12955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00650_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11669,6 +12965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "R04405_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11678,6 +12975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "R04405_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11687,6 +12985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "R04405_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11696,6 +12995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "R04405_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11705,6 +13005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "rectangle",
     "abbr": "R00344_p",
     "pathway": "not identify"
 }, {
@@ -11714,6 +13015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R00344_p",
     "pathway": "not identify"
 }, {
@@ -11723,6 +13025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R00344_p",
     "pathway": "not identify"
 }, {
@@ -11732,6 +13035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R00344_p",
     "pathway": "not identify"
 }, {
@@ -11741,6 +13045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R00344_p",
     "pathway": "not identify"
 }, {
@@ -11750,6 +13055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "rectangle",
     "abbr": "R00344_p",
     "pathway": "not identify"
 }, {
@@ -11759,6 +13065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R00344_p",
     "pathway": "not identify"
 }, {
@@ -11768,6 +13075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R00344_p",
     "pathway": "not identify"
 }, {
@@ -11777,6 +13085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R00344_p",
     "pathway": "not identify"
 }, {
@@ -11786,6 +13095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01398_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11795,6 +13105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01398_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11804,6 +13115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01398_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11813,6 +13125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01398_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11822,6 +13135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01954_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11831,6 +13145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01954_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11840,6 +13155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01954_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11849,6 +13165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01954_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11858,6 +13175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01954_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11867,6 +13185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01954_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11876,6 +13195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01086_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11885,6 +13205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01086_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11894,6 +13215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000813103561327572,
+    "shape": "triangle",
     "abbr": "R01086_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11903,6 +13225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R00669_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11912,6 +13235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R00669_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11921,6 +13245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R00669_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11930,6 +13255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R00669_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11939,6 +13265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R02283_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11948,6 +13275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R02283_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11957,6 +13285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R02283_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11966,6 +13295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R02283_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11975,6 +13305,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R03443_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11984,6 +13315,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R03443_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -11993,6 +13325,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R03443_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12002,6 +13335,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R03443_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12011,6 +13345,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R03443_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12020,6 +13355,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R03443_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12029,6 +13365,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R02649_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12038,6 +13375,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R02649_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12047,6 +13385,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R02649_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12056,6 +13395,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R02649_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12065,6 +13405,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R00259_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12074,6 +13415,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R00259_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12083,6 +13425,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R00259_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12092,6 +13435,7 @@ var data = [{
     "target_arrow": "none",
     "source_arrow": "triangle",
     "flux": -0.000497184343232145,
+    "shape": "triangle",
     "abbr": "R00259_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12101,6 +13445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00253_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12110,6 +13455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00253_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12119,6 +13465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00253_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12128,6 +13475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00253_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12137,6 +13485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00253_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12146,6 +13495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00253_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12155,6 +13505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00156405907975113,
+    "shape": "triangle",
     "abbr": "R00093_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12164,6 +13515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00156405907975113,
+    "shape": "triangle",
     "abbr": "R00093_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12173,6 +13525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00156405907975113,
+    "shape": "triangle",
     "abbr": "R00093_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12182,6 +13535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00156405907975113,
+    "shape": "triangle",
     "abbr": "R00093_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12191,6 +13545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00156405907975113,
+    "shape": "rectangle",
     "abbr": "R00093_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12200,6 +13555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00156405907975113,
+    "shape": "triangle",
     "abbr": "R00093_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12209,6 +13565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00156405907975113,
+    "shape": "triangle",
     "abbr": "R00093_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12218,6 +13575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01071_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12227,6 +13585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01071_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12236,6 +13595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01071_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12245,6 +13605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01071_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12254,6 +13615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04035_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12263,6 +13625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04035_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12272,6 +13635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04035_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12281,6 +13645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04035_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12290,6 +13655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04037_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12299,6 +13665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04037_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12308,6 +13675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04037_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12317,6 +13685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04640_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12326,6 +13695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04640_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12335,6 +13705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04558_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12344,6 +13715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04558_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12353,6 +13725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04558_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12362,6 +13735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04558_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12371,6 +13745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04558_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12380,6 +13755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03457_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12389,6 +13765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03457_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12398,6 +13775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03457_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12407,6 +13785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03243_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12416,6 +13795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03243_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12425,6 +13805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03243_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12434,6 +13815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03243_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12443,6 +13825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03013_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12452,6 +13835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03013_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12461,6 +13845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03013_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12470,6 +13855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03013_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12479,6 +13865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03012_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12488,6 +13875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03012_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12497,6 +13885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03012_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12506,6 +13895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03012_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12515,6 +13905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R03012_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12524,6 +13915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01163_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12533,6 +13925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01163_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12542,6 +13935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01163_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12551,6 +13945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01163_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12560,6 +13955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01163_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12569,6 +13965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01163_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12578,6 +13975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04560_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -12587,6 +13985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04560_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -12596,6 +13995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04560_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -12605,6 +14005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R04560_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -12614,6 +14015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01127_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -12623,6 +14025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01127_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -12632,6 +14035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "R01127_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -12641,6 +14045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R01826_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12650,6 +14055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R01826_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12659,6 +14065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R01826_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12668,6 +14075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R01826_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12677,6 +14085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R01826_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12686,6 +14095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R03083_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12695,6 +14105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R03083_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12704,6 +14115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R03083_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12713,6 +14125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R03084_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12722,6 +14135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R03084_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12731,6 +14145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R03084_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12740,6 +14155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R02413_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12749,6 +14165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R02413_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12758,6 +14175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R02413_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12767,6 +14185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R02413_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12776,6 +14195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R02413_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12785,6 +14205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R02412_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12794,6 +14215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R02412_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12803,6 +14225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R02412_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12812,6 +14235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R02412_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12821,6 +14245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R03460_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12830,6 +14255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R03460_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12839,6 +14265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R03460_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12848,6 +14275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R03460_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12857,6 +14285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R01714_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12866,6 +14295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R01714_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12875,6 +14305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "R01714_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12884,6 +14315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R00985_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12893,6 +14325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R00985_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12902,6 +14335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R00985_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12911,6 +14345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R00985_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12920,6 +14355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R00985_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12929,6 +14365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00986_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12938,6 +14375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00986_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12947,6 +14385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00986_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12956,6 +14395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00986_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12965,6 +14405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00986_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12974,6 +14415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R01073_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12983,6 +14425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R01073_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -12992,6 +14435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R01073_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13001,6 +14445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R01073_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13010,6 +14455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R03509_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13019,6 +14465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R03509_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13028,6 +14475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R03508_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13037,6 +14485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R03508_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13046,6 +14495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R03508_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13055,6 +14505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R03508_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13064,6 +14515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02722_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13073,6 +14525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02722_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13082,6 +14535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02722_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13091,6 +14545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02722_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13100,6 +14555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02722_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13109,6 +14565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R02340_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13118,6 +14575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R02340_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13127,6 +14585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R02340_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13136,6 +14595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R00674_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13145,6 +14605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R00674_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13154,6 +14615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R00674_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13163,6 +14625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 3.10740214520091e-05,
+    "shape": "triangle",
     "abbr": "R00674_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13172,6 +14635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000103580071506697,
+    "shape": "triangle",
     "abbr": "R01715_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13181,6 +14645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000103580071506697,
+    "shape": "triangle",
     "abbr": "R01715_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13190,6 +14655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000103580071506697,
+    "shape": "triangle",
     "abbr": "R07276_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13199,6 +14665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000103580071506697,
+    "shape": "triangle",
     "abbr": "R07276_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13208,6 +14675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000103580071506697,
+    "shape": "triangle",
     "abbr": "R07276_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13217,6 +14685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.000103580071506697,
+    "shape": "triangle",
     "abbr": "R07276_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13226,6 +14695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 7.76850536300228e-05,
+    "shape": "triangle",
     "abbr": "R00691_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13235,6 +14705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 7.76850536300228e-05,
+    "shape": "triangle",
     "abbr": "R00691_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13244,6 +14715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 7.76850536300228e-05,
+    "shape": "triangle",
     "abbr": "R00691_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13253,6 +14725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 7.76850536300228e-05,
+    "shape": "triangle",
     "abbr": "R00691_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13262,6 +14735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 2.58950178766743e-05,
+    "shape": "triangle",
     "abbr": "R00733_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13271,6 +14745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 2.58950178766743e-05,
+    "shape": "triangle",
     "abbr": "R00733_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13280,6 +14755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 2.58950178766743e-05,
+    "shape": "triangle",
     "abbr": "R00733_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13289,6 +14765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 2.58950178766743e-05,
+    "shape": "triangle",
     "abbr": "R00733_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13298,6 +14775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 2.58950178766743e-05,
+    "shape": "triangle",
     "abbr": "R00733_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13307,6 +14785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 2.58950178766743e-05,
+    "shape": "triangle",
     "abbr": "R00733_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13316,6 +14795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00734_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13325,6 +14805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00734_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13334,6 +14815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00734_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13343,6 +14825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00734_p",
     "pathway": "amino acid biosynthesis pathway"
 }, {
@@ -13352,6 +14835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13361,6 +14845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13370,6 +14855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13379,6 +14865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13388,6 +14875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13397,6 +14885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13406,6 +14895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13415,6 +14905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13424,6 +14915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13433,6 +14925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13442,6 +14935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00575_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13451,6 +14945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01397_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13460,6 +14955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01397_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13469,6 +14965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01397_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13478,6 +14975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01397_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13487,6 +14985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01993_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13496,6 +14995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01993_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13505,6 +15005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01993_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13514,6 +15015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01868_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13523,6 +15025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01868_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13532,6 +15035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01868_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13541,6 +15045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01868_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13550,6 +15055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01870_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13559,6 +15065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01870_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13568,6 +15075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01870_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13577,6 +15085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01870_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13586,6 +15095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00965_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13595,6 +15105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00965_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13604,6 +15115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00965_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13613,6 +15125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00158_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13622,6 +15135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00158_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13631,6 +15145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00158_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13640,6 +15155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00158_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13649,6 +15165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00155_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13658,6 +15175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00155_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13667,6 +15185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00155_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13676,6 +15195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00155_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13685,6 +15205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00156_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13694,6 +15215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00156_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13703,6 +15225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00156_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13712,6 +15235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00156_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13721,6 +15245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00159_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13730,6 +15255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00159_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13739,6 +15265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00159_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13748,6 +15275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00159_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13757,6 +15285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02326_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13766,6 +15295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02326_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13775,6 +15305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02326_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13784,6 +15315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02326_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13793,6 +15325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02325_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13802,6 +15335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02325_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13811,6 +15345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02325_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13820,6 +15355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02325_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13829,6 +15365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02330_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13838,6 +15375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02330_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13847,6 +15385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02330_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13856,6 +15395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02330_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13865,6 +15405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02331_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13874,6 +15415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02331_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13883,6 +15425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02331_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13892,6 +15435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02331_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13901,6 +15445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01547_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13910,6 +15455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01547_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13919,6 +15465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01547_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13928,6 +15475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01547_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13937,6 +15485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01137_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13946,6 +15495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01137_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13955,6 +15505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01137_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13964,6 +15515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01137_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13973,6 +15525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02094_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13982,6 +15535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02094_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -13991,6 +15545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02094_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14000,6 +15555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02094_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14009,6 +15565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02093_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14018,6 +15575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02093_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14027,6 +15585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02093_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14036,6 +15595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R02093_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14045,6 +15605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01857_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14054,6 +15615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01857_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14063,6 +15625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01857_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14072,6 +15635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R01857_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14081,6 +15645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00330_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14090,6 +15655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00330_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14099,6 +15665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00330_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14108,6 +15675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00330_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14117,6 +15685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "triangle",
     "abbr": "R00514_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14126,6 +15695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "triangle",
     "abbr": "R00514_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14135,6 +15705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "triangle",
     "abbr": "R00514_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14144,6 +15715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "triangle",
     "abbr": "R00514_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14153,6 +15725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "triangle",
     "abbr": "R00569_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14162,6 +15735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "triangle",
     "abbr": "R00569_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14171,6 +15745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "triangle",
     "abbr": "R00569_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14180,6 +15755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "triangle",
     "abbr": "R00569_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14189,6 +15765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00570_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14198,6 +15775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00570_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14207,6 +15785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00570_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14216,6 +15795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "R00570_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14225,6 +15805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00626204801899073,
+    "shape": "triangle",
     "abbr": "R00127_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14234,6 +15815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00626204801899073,
+    "shape": "triangle",
     "abbr": "R00127_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14243,6 +15825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00626204801899073,
+    "shape": "rectangle",
     "abbr": "R00127_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14252,6 +15835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "none",
     "flux": 0.00626204801899073,
+    "shape": "triangle",
     "abbr": "R00127_p",
     "pathway": "nucleotide biosynthesis pathway"
 }, {
@@ -14261,6 +15845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.75770971644607e-07,
+    "shape": "ellipse",
     "abbr": "Ext52",
     "pathway": null
 }, {
@@ -14270,6 +15855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext53",
     "pathway": null
 }, {
@@ -14279,6 +15865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext54",
     "pathway": null
 }, {
@@ -14288,6 +15875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000108759075082032,
+    "shape": "ellipse",
     "abbr": "Ext55",
     "pathway": null
 }, {
@@ -14297,6 +15885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext56",
     "pathway": null
 }, {
@@ -14306,6 +15895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "Ext57",
     "pathway": null
 }, {
@@ -14315,6 +15905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 8.80430607806925e-05,
+    "shape": "ellipse",
     "abbr": "Ext58",
     "pathway": null
 }, {
@@ -14324,6 +15915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.80430607806925e-05,
+    "shape": "ellipse",
     "abbr": "EX11",
     "pathway": null
 }, {
@@ -14333,6 +15925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCM1",
     "pathway": "ADP/ATP  transporter"
 }, {
@@ -14342,6 +15935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "TCM1",
     "pathway": "ADP/ATP  transporter"
 }, {
@@ -14351,6 +15945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCM2",
     "pathway": "AMP/ATP  transporter"
 }, {
@@ -14360,6 +15955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "TCM2",
     "pathway": "AMP/ATP  transporter"
 }, {
@@ -14369,6 +15965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCM3",
     "pathway": "ADP/ATP  transporter"
 }, {
@@ -14378,6 +15975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "TCM3",
     "pathway": "ADP/ATP  transporter"
 }, {
@@ -14387,6 +15985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.155878136137592,
+    "shape": "ellipse",
     "abbr": "TCM5",
     "pathway": null
 }, {
@@ -14396,6 +15995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.155878136137592,
+    "shape": "rectangle",
     "abbr": "TCM5",
     "pathway": null
 }, {
@@ -14405,6 +16005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00103062171149164,
+    "shape": "ellipse",
     "abbr": "TCM8",
     "pathway": null
 }, {
@@ -14414,6 +16015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "TCM8",
     "pathway": null
 }, {
@@ -14423,6 +16025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00103062171149164,
+    "shape": "ellipse",
     "abbr": "TCM9",
     "pathway": null
 }, {
@@ -14432,6 +16035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "TCM9",
     "pathway": null
 }, {
@@ -14441,6 +16045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.04410434584668e-28,
+    "shape": "ellipse",
     "abbr": "TCM10",
     "pathway": null
 }, {
@@ -14450,6 +16055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.04410434584668e-28,
+    "shape": "rectangle",
     "abbr": "TCM10",
     "pathway": null
 }, {
@@ -14459,6 +16065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.06110025318242e-28,
+    "shape": "ellipse",
     "abbr": "TCM11",
     "pathway": null
 }, {
@@ -14468,6 +16075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.06110025318242e-28,
+    "shape": "rectangle",
     "abbr": "TCM11",
     "pathway": null
 }, {
@@ -14477,6 +16085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00103062171149164,
+    "shape": "ellipse",
     "abbr": "TCM12",
     "pathway": "H+ transporter"
 }, {
@@ -14486,6 +16095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "TCM12",
     "pathway": "H+ transporter"
 }, {
@@ -14495,6 +16105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.156908757849083,
+    "shape": "ellipse",
     "abbr": "TCM13",
     "pathway": "H2O  transporter"
 }, {
@@ -14504,6 +16115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.156908757849083,
+    "shape": "rectangle",
     "abbr": "TCM13",
     "pathway": "H2O  transporter"
 }, {
@@ -14513,6 +16125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "ellipse",
     "abbr": "TCM14",
     "pathway": "Diphosphate transporter"
 }, {
@@ -14522,6 +16135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "rectangle",
     "abbr": "TCM14",
     "pathway": "Diphosphate transporter"
 }, {
@@ -14531,6 +16145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCM15",
     "pathway": "Orthophosphate  transporter"
 }, {
@@ -14540,6 +16155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "TCM15",
     "pathway": "Orthophosphate  transporter"
 }, {
@@ -14549,6 +16165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCM16",
     "pathway": null
 }, {
@@ -14558,6 +16175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "TCM16",
     "pathway": null
 }, {
@@ -14567,6 +16185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCM17",
     "pathway": null
 }, {
@@ -14576,6 +16195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "TCM17",
     "pathway": null
 }, {
@@ -14585,6 +16205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCM18",
     "pathway": null
 }, {
@@ -14594,6 +16215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "TCM18",
     "pathway": null
 }, {
@@ -14603,6 +16225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCM19",
     "pathway": null
 }, {
@@ -14612,6 +16235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "TCM19",
     "pathway": null
 }, {
@@ -14621,6 +16245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCM22",
     "pathway": "NH3  transporter"
 }, {
@@ -14630,6 +16255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "TCM22",
     "pathway": "NH3  transporter"
 }, {
@@ -14639,6 +16265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.06108999449284e-28,
+    "shape": "ellipse",
     "abbr": "TCM23",
     "pathway": "CO2  transporter"
 }, {
@@ -14648,6 +16275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.06108999449284e-28,
+    "shape": "rectangle",
     "abbr": "TCM23",
     "pathway": "CO2  transporter"
 }, {
@@ -14657,6 +16285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 2.05292005752711e-33,
+    "shape": "ellipse",
     "abbr": "TCM24",
     "pathway": "CoA  transporter"
 }, {
@@ -14666,6 +16295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 2.05292005752711e-33,
+    "shape": "rectangle",
     "abbr": "TCM24",
     "pathway": "CoA  transporter"
 }, {
@@ -14675,6 +16305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.06108568716102e-28,
+    "shape": "ellipse",
     "abbr": "TCM25",
     "pathway": "Pyruvate transporter"
 }, {
@@ -14684,6 +16315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -1.06108568716102e-28,
+    "shape": "rectangle",
     "abbr": "TCM25",
     "pathway": "Pyruvate transporter"
 }, {
@@ -14693,6 +16325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00103062171149164,
+    "shape": "ellipse",
     "abbr": "TCM29",
     "pathway": "2-Oxoglutarate/Oxaloacetate  transporter"
 }, {
@@ -14702,6 +16335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "TCM29",
     "pathway": "2-Oxoglutarate/Oxaloacetate  transporter"
 }, {
@@ -14711,6 +16345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCM30",
     "pathway": "Acetate transporter"
 }, {
@@ -14720,6 +16355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "rectangle",
     "abbr": "TCM30",
     "pathway": "Acetate transporter"
 }, {
@@ -14729,6 +16365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00103062171149164,
+    "shape": "ellipse",
     "abbr": "TCM31",
     "pathway": "Fumarate  transporter"
 }, {
@@ -14738,6 +16375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00103062171149164,
+    "shape": "rectangle",
     "abbr": "TCM31",
     "pathway": "Fumarate  transporter"
 }, {
@@ -14747,6 +16385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.06556019206238e-28,
+    "shape": "ellipse",
     "abbr": "TCM32",
     "pathway": "2-Oxoglutarate/Oxaloacetate  transporter"
 }, {
@@ -14756,6 +16395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.06556019206238e-28,
+    "shape": "rectangle",
     "abbr": "TCM32",
     "pathway": "2-Oxoglutarate/Oxaloacetate  transporter"
 }, {
@@ -14765,6 +16405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "ellipse",
     "abbr": "TCM33",
     "pathway": null
 }, {
@@ -14774,6 +16415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "rectangle",
     "abbr": "TCM33",
     "pathway": null
 }, {
@@ -14783,6 +16425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744916479442882,
+    "shape": "ellipse",
     "abbr": "TCP1",
     "pathway": null
 }, {
@@ -14792,6 +16435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0744916479442882,
+    "shape": "triangle",
     "abbr": "TCP1",
     "pathway": null
 }, {
@@ -14801,6 +16445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.291559320693343,
+    "shape": "ellipse",
     "abbr": "TCP2",
     "pathway": null
 }, {
@@ -14810,6 +16455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.291559320693343,
+    "shape": "triangle",
     "abbr": "TCP2",
     "pathway": null
 }, {
@@ -14819,6 +16465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.291559320693343,
+    "shape": "ellipse",
     "abbr": "TCP3",
     "pathway": null
 }, {
@@ -14828,6 +16475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.291559320693343,
+    "shape": "triangle",
     "abbr": "TCP3",
     "pathway": null
 }, {
@@ -14837,6 +16485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "TCP4",
     "pathway": null
 }, {
@@ -14846,6 +16495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "TCP4",
     "pathway": null
 }, {
@@ -14855,6 +16505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0732120825192372,
+    "shape": "ellipse",
     "abbr": "TCP5",
     "pathway": null
 }, {
@@ -14864,6 +16515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0732120825192372,
+    "shape": "triangle",
     "abbr": "TCP5",
     "pathway": null
 }, {
@@ -14873,6 +16525,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.75770971644607e-07,
+    "shape": "ellipse",
     "abbr": "TCP6",
     "pathway": null
 }, {
@@ -14882,6 +16535,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 1.75770971644607e-07,
+    "shape": "triangle",
     "abbr": "TCP6",
     "pathway": null
 }, {
@@ -14891,6 +16545,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00498283413588302,
+    "shape": "ellipse",
     "abbr": "TCP7",
     "pathway": null
 }, {
@@ -14900,6 +16555,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00498283413588302,
+    "shape": "triangle",
     "abbr": "TCP7",
     "pathway": null
 }, {
@@ -14909,6 +16565,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0022893951866891,
+    "shape": "ellipse",
     "abbr": "TCP8",
     "pathway": null
 }, {
@@ -14918,6 +16575,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0022893951866891,
+    "shape": "triangle",
     "abbr": "TCP8",
     "pathway": null
 }, {
@@ -14927,6 +16585,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.459888825534889,
+    "shape": "ellipse",
     "abbr": "TCP9",
     "pathway": null
 }, {
@@ -14936,6 +16595,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.459888825534889,
+    "shape": "triangle",
     "abbr": "TCP9",
     "pathway": null
 }, {
@@ -14945,6 +16605,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0117250076607855,
+    "shape": "ellipse",
     "abbr": "TCP10",
     "pathway": null
 }, {
@@ -14954,6 +16615,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0117250076607855,
+    "shape": "triangle",
     "abbr": "TCP10",
     "pathway": null
 }, {
@@ -14963,6 +16625,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.225358445832316,
+    "shape": "ellipse",
     "abbr": "TCP11",
     "pathway": null
 }, {
@@ -14972,6 +16635,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.225358445832316,
+    "shape": "triangle",
     "abbr": "TCP11",
     "pathway": null
 }, {
@@ -14981,6 +16645,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.157157525791671,
+    "shape": "ellipse",
     "abbr": "TCP12",
     "pathway": null
 }, {
@@ -14990,6 +16655,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.157157525791671,
+    "shape": "triangle",
     "abbr": "TCP12",
     "pathway": null
 }, {
@@ -14999,6 +16665,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -2.05292005752711e-33,
+    "shape": "ellipse",
     "abbr": "TCP18",
     "pathway": null
 }, {
@@ -15008,6 +16675,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -2.05292005752711e-33,
+    "shape": "triangle",
     "abbr": "TCP18",
     "pathway": null
 }, {
@@ -15017,6 +16685,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0022893951866891,
+    "shape": "ellipse",
     "abbr": "TCP19",
     "pathway": null
 }, {
@@ -15026,6 +16695,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0022893951866891,
+    "shape": "triangle",
     "abbr": "TCP19",
     "pathway": null
 }, {
@@ -15035,6 +16705,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP20",
     "pathway": null
 }, {
@@ -15044,6 +16715,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP20",
     "pathway": null
 }, {
@@ -15053,6 +16725,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP21",
     "pathway": null
 }, {
@@ -15062,6 +16735,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP21",
     "pathway": null
 }, {
@@ -15071,6 +16745,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00216482349448997,
+    "shape": "ellipse",
     "abbr": "TCP22",
     "pathway": null
 }, {
@@ -15080,6 +16755,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00216482349448997,
+    "shape": "triangle",
     "abbr": "TCP22",
     "pathway": null
 }, {
@@ -15089,6 +16765,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000108759075082032,
+    "shape": "ellipse",
     "abbr": "TCP23",
     "pathway": null
 }, {
@@ -15098,6 +16775,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000108759075082032,
+    "shape": "triangle",
     "abbr": "TCP23",
     "pathway": null
 }, {
@@ -15107,6 +16785,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000113938078657367,
+    "shape": "ellipse",
     "abbr": "TCP24",
     "pathway": null
 }, {
@@ -15116,6 +16795,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000113938078657367,
+    "shape": "triangle",
     "abbr": "TCP24",
     "pathway": null
 }, {
@@ -15125,6 +16805,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000497184343232145,
+    "shape": "ellipse",
     "abbr": "TCP25",
     "pathway": null
 }, {
@@ -15134,6 +16815,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000497184343232145,
+    "shape": "triangle",
     "abbr": "TCP25",
     "pathway": null
 }, {
@@ -15143,6 +16825,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "TCP26",
     "pathway": null
 }, {
@@ -15152,6 +16835,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "triangle",
     "abbr": "TCP26",
     "pathway": null
 }, {
@@ -15161,6 +16845,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP27",
     "pathway": null
 }, {
@@ -15170,6 +16855,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP27",
     "pathway": null
 }, {
@@ -15179,6 +16865,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP28",
     "pathway": null
 }, {
@@ -15188,6 +16875,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP28",
     "pathway": null
 }, {
@@ -15197,6 +16885,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000766492529149558,
+    "shape": "ellipse",
     "abbr": "TCP29",
     "pathway": null
 }, {
@@ -15206,6 +16895,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000766492529149558,
+    "shape": "triangle",
     "abbr": "TCP29",
     "pathway": null
 }, {
@@ -15215,6 +16905,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP30",
     "pathway": null
 }, {
@@ -15224,6 +16915,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP30",
     "pathway": null
 }, {
@@ -15233,6 +16925,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP31",
     "pathway": null
 }, {
@@ -15242,6 +16935,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP31",
     "pathway": null
 }, {
@@ -15251,6 +16945,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 8.80430607806925e-05,
+    "shape": "ellipse",
     "abbr": "TCP32",
     "pathway": null
 }, {
@@ -15260,6 +16955,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "TCP32",
     "pathway": null
 }, {
@@ -15269,6 +16965,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.80430607806925e-05,
+    "shape": "ellipse",
     "abbr": "TCP33",
     "pathway": null
 }, {
@@ -15278,6 +16975,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -8.80430607806925e-05,
+    "shape": "triangle",
     "abbr": "TCP33",
     "pathway": null
 }, {
@@ -15287,6 +16985,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00131028790455972,
+    "shape": "ellipse",
     "abbr": "TCP34",
     "pathway": null
 }, {
@@ -15296,6 +16995,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00131028790455972,
+    "shape": "triangle",
     "abbr": "TCP34",
     "pathway": null
 }, {
@@ -15305,6 +17005,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000813103561327572,
+    "shape": "ellipse",
     "abbr": "TCP35",
     "pathway": null
 }, {
@@ -15314,6 +17015,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000813103561327572,
+    "shape": "triangle",
     "abbr": "TCP35",
     "pathway": null
 }, {
@@ -15323,6 +17025,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "TCP36",
     "pathway": null
 }, {
@@ -15332,6 +17035,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000217518150164064,
+    "shape": "triangle",
     "abbr": "TCP36",
     "pathway": null
 }, {
@@ -15341,6 +17045,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "ellipse",
     "abbr": "TCP37",
     "pathway": null
 }, {
@@ -15350,6 +17055,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.000217518150164064,
+    "shape": "triangle",
     "abbr": "TCP37",
     "pathway": null
 }, {
@@ -15359,6 +17065,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -2.58950178766743e-05,
+    "shape": "ellipse",
     "abbr": "TCP38",
     "pathway": null
 }, {
@@ -15368,6 +17075,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -2.58950178766743e-05,
+    "shape": "triangle",
     "abbr": "TCP38",
     "pathway": null
 }, {
@@ -15377,6 +17085,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP39",
     "pathway": null
 }, {
@@ -15386,6 +17095,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP39",
     "pathway": null
 }, {
@@ -15395,6 +17105,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP42",
     "pathway": null
 }, {
@@ -15404,6 +17115,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP42",
     "pathway": null
 }, {
@@ -15413,6 +17125,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.155878136137592,
+    "shape": "ellipse",
     "abbr": "TCP49",
     "pathway": null
 }, {
@@ -15422,6 +17135,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.155878136137592,
+    "shape": "triangle",
     "abbr": "TCP49",
     "pathway": null
 }, {
@@ -15431,6 +17145,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "ellipse",
     "abbr": "TCP50",
     "pathway": null
 }, {
@@ -15440,6 +17155,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.155878136137592,
+    "shape": "triangle",
     "abbr": "TCP50",
     "pathway": null
 }, {
@@ -15449,6 +17165,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP51",
     "pathway": "Carbamoyl phosphate transporter"
 }, {
@@ -15458,6 +17175,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP51",
     "pathway": "Carbamoyl phosphate transporter"
 }, {
@@ -15467,6 +17185,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.152908665826224,
+    "shape": "ellipse",
     "abbr": "TCP52",
     "pathway": "Pyruvate transporter"
 }, {
@@ -15476,6 +17195,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.152908665826224,
+    "shape": "triangle",
     "abbr": "TCP52",
     "pathway": "Pyruvate transporter"
 }, {
@@ -15485,6 +17205,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP53",
     "pathway": "2-Phospho-D-glycerate transporter"
 }, {
@@ -15494,6 +17215,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP53",
     "pathway": "2-Phospho-D-glycerate transporter"
 }, {
@@ -15503,6 +17225,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.151978029320269,
+    "shape": "ellipse",
     "abbr": "TCP54",
     "pathway": "3-Phospho-D-glyceroyl phosphate transporter"
 }, {
@@ -15512,6 +17235,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.151978029320269,
+    "shape": "triangle",
     "abbr": "TCP54",
     "pathway": "3-Phospho-D-glyceroyl phosphate transporter"
 }, {
@@ -15521,6 +17245,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0826660536183545,
+    "shape": "ellipse",
     "abbr": "TCP55",
     "pathway": "beta-D-Fructose 1,6-bisphosphate transporter"
 }, {
@@ -15530,6 +17255,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.0826660536183545,
+    "shape": "triangle",
     "abbr": "TCP55",
     "pathway": "beta-D-Fructose 1,6-bisphosphate transporter"
 }, {
@@ -15539,6 +17265,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP56",
     "pathway": "dCTP transporter"
 }, {
@@ -15548,6 +17275,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP56",
     "pathway": "dCTP transporter"
 }, {
@@ -15557,6 +17285,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000134654092958706,
+    "shape": "ellipse",
     "abbr": "TCP57",
     "pathway": "D-Erythrose 4-phosphate transporter"
 }, {
@@ -15566,6 +17295,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.000134654092958706,
+    "shape": "triangle",
     "abbr": "TCP57",
     "pathway": "D-Erythrose 4-phosphate transporter"
 }, {
@@ -15575,6 +17305,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00162296535240855,
+    "shape": "ellipse",
     "abbr": "TCP58",
     "pathway": "D-Ribose 5-phosphate transporter"
 }, {
@@ -15584,6 +17315,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00162296535240855,
+    "shape": "triangle",
     "abbr": "TCP58",
     "pathway": "D-Ribose 5-phosphate transporter"
 }, {
@@ -15593,6 +17325,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00874832682517125,
+    "shape": "ellipse",
     "abbr": "TCP59",
     "pathway": "L-Aspartate transporter"
 }, {
@@ -15602,6 +17335,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00874832682517125,
+    "shape": "triangle",
     "abbr": "TCP59",
     "pathway": "L-Aspartate transporter"
 }, {
@@ -15611,6 +17345,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00018126512513672,
+    "shape": "ellipse",
     "abbr": "TCP60",
     "pathway": "L-Serine transporter"
 }, {
@@ -15620,6 +17355,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00018126512513672,
+    "shape": "triangle",
     "abbr": "TCP60",
     "pathway": "L-Serine transporter"
 }, {
@@ -15629,6 +17365,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00694085457737939,
+    "shape": "ellipse",
     "abbr": "TCP61",
     "pathway": "L-Threonine transporter"
 }, {
@@ -15638,6 +17375,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.00694085457737939,
+    "shape": "triangle",
     "abbr": "TCP61",
     "pathway": "L-Threonine transporter"
 }, {
@@ -15647,6 +17385,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00033145622882143,
+    "shape": "ellipse",
     "abbr": "TCP62",
     "pathway": "3-Phospho-D-glycerate/Orthophosphate transporter"
 }, {
@@ -15656,6 +17395,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00033145622882143,
+    "shape": "triangle",
     "abbr": "TCP62",
     "pathway": "3-Phospho-D-glycerate/Orthophosphate transporter"
 }, {
@@ -15665,6 +17405,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 7.35473999787177e-28,
+    "shape": "ellipse",
     "abbr": "TCP63",
     "pathway": "alpha-D-Glucose 6-phosphate/Orthophosphate transporter"
 }, {
@@ -15674,6 +17415,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 7.35473999787177e-28,
+    "shape": "triangle",
     "abbr": "TCP63",
     "pathway": "alpha-D-Glucose 6-phosphate/Orthophosphate transporter"
 }, {
@@ -15683,6 +17425,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.15082117428964,
+    "shape": "ellipse",
     "abbr": "TCP64",
     "pathway": "D-Glyceraldehyde 3-phosphate/Orthophosphate transporter"
 }, {
@@ -15692,6 +17435,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.15082117428964,
+    "shape": "triangle",
     "abbr": "TCP64",
     "pathway": "D-Glyceraldehyde 3-phosphate/Orthophosphate transporter"
 }, {
@@ -15701,6 +17445,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0031112766118584,
+    "shape": "ellipse",
     "abbr": "TCP65",
     "pathway": "D-Xylulose 5-phosphate/Orthophosphate transporter"
 }, {
@@ -15710,6 +17455,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": -0.0031112766118584,
+    "shape": "triangle",
     "abbr": "TCP65",
     "pathway": "D-Xylulose 5-phosphate/Orthophosphate transporter"
 }, {
@@ -15719,6 +17465,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00178157722991519,
+    "shape": "ellipse",
     "abbr": "TCP66",
     "pathway": "L-Glutamate/L-Glutamine transporter"
 }, {
@@ -15728,6 +17475,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0.00178157722991519,
+    "shape": "triangle",
     "abbr": "TCP66",
     "pathway": "L-Glutamate/L-Glutamine transporter"
 }, {
@@ -15737,6 +17485,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP67",
     "pathway": "Orthophosphate/Phosphoenolpyruvate transporter"
 }, {
@@ -15746,6 +17495,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP67",
     "pathway": "Orthophosphate/Phosphoenolpyruvate transporter"
 }, {
@@ -15755,6 +17505,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "ellipse",
     "abbr": "TCP68",
     "pathway": null
 }, {
@@ -15764,6 +17515,7 @@ var data = [{
     "target_arrow": "triangle",
     "source_arrow": "triangle",
     "flux": 0,
+    "shape": "triangle",
     "abbr": "TCP68",
     "pathway": null
 }]
